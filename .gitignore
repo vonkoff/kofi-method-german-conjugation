@@ -1,2 +1,4 @@
 .env
 env
+audio_files/*
+!audio_files/README.md
