@@ -4,6 +4,7 @@ from random import randint
 import os
 from dotenv import load_dotenv
 import azure.cognitiveservices.speech as speechsdk
+from constants import kofi_css
 
 
 def synthesize_speech(text, filename):
@@ -30,25 +31,40 @@ for _ in range(10):
     rval = randint(0, 9)
 
 my_deck = genanki.Deck(
-    deck_id=rval,
-    name='KOFI German Conjugation'
+    # Remove for user later
+    deck_id=1239481293,
+    name='KOFI German'
 )
 
-my_template = genanki.Model(
-    model_id=rval,
-    name='FAKE DRAFT Model w/ Audio',
+# Define the model
+kofi_model = genanki.Model(
+    # Remove for user later
+    model_id=391834738,  # Replace with your unique model ID
+    name="Kofi German Conjugation Model",
     fields=[
-        {'name': 'Question'},
-        {'name': 'Answer'},
-        {'name': 'MyMedia'},
+        {"name": "UUID"},
+        {"name": "Prompt"},
+        {"name": "Similar"},
+        {"name": "Notes"}
     ],
     templates=[
         {
-            'name': 'Card 1',
-            'qfmt': '{{Question}}',
-            'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br>{{MyMedia}}',
-        },
-    ])
+            "name": "Card 1",
+            "qfmt": """
+                {{cloze:Prompt}}
+            """,  # Front of the card
+            "afmt": """
+                {{cloze:Prompt}}<br>
+                <hr id="answer">
+                {{Similar}}<br>
+                <hr>
+                Notes:<br>
+                {{Notes}}
+            """  # Back of the card
+        }
+    ],
+    css=kofi_css
+)
 
 words = {
     "laufen": ["Ich laufe", "Du läufst"]
@@ -60,15 +76,25 @@ for word, conjugations in words.items():
     os.makedirs(word_folder, exist_ok=True)
 
     for i, text in enumerate(conjugations):
-        audio_filename = os.path.join(word_folder, f"{word}_{i}.mp3")
-        if synthesize_speech(text, audio_filename):
-            audio_files.append(audio_filename)
-            my_note = genanki.Note(model=my_template,
-                                   fields=[text, "Translation here",
-                                           f'[sound:{word}_{i}.mp3]'],
-                                   #    tags=["tags"]
-                                   )
-            my_deck.add_note(my_note)
+        # audio_filename = os.path.join(word_folder, f"{word}_{i}.mp3")
+        # if synthesize_speech(text, audio_filename):
+        #     audio_files.append(audio_filename)
+        my_note = genanki.Note(model=kofi_model,
+                               fields=[
+                                   # UUID
+                                   "8ac5-4121-856c-1233ba44a",
+                                   # Prompt
+                                   "Das Verb in<br><span class=\"cloze_hilite\">es ist</span><br>ist zu <span class=\"sp_verb\">{{c1::sein}}</span>",
+                                   # Similar
+                                   "",
+                                   #    "<br><span class=\"alt_conj\">buscábamos</span>←<span class=\"alt_inf\"><a href=\"https://dle.rae.es/buscar?m=form#conjugacion\">buscar</a></span><br><span class=\"alt_conj\">cambiábamos</span>←<span class=\"alt_inf\"><a href=\"https://dle.rae.es/cambiar?m=form#conjugacion\">cambiar</a></span><br><span class=\"alt_conj\">causábamos</span>←<span class=\"alt_inf\"><a href=\"https://dle.rae.es/causar?m=form#conjugacion\">causar</a></span><br><span class=\"alt_conj\">llevábamos</span>←<span class=\"alt_inf\"><a href=\"https://dle.rae.es/llevar?m=form#conjugacion\">llevar</a></span><br><span class=\"alt_conj\">dejábamos</span>←<span class=\"alt_inf\"><a href=\"https://dle.rae.es/dejar?m=form#conjugacion\">dejar</a></span><br><span class=\"alt_conj\">quedábamos</span>←<span class=\"alt_inf\"><a href=\"https://dle.rae.es/quedar?m=form#conjugacion\">quedar</a></span>",  # Similar
+                                   # Notes
+                                   "",
+                                   #    "<span class=\"SECTION_family\"><br><span class=\"dle_conj\"><a href=\"https://dle.rae.es/hablar?m=form#conjugacion\">hablar</a></span> is a <span class=\"note_feature\">regular verb in -ar</span></span>"  # Notes
+                               ],
+                               tags=["test"]
+                               )
+        my_deck.add_note(my_note)
 
 genanki.Package(my_deck, media_files=audio_files).write_to_file(
     'kofi_german_conjugation.apkg')
