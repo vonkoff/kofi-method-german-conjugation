@@ -2,7 +2,9 @@
 
 Inspired by Lisardo's Kofi Method https://www.asiteaboutnothing.net/w_ultimate_italian_conjugation.html#:~:text=What%20is%20the%20KOFI%20Method,to%20formally%20study%20the%20language.
 
-# OPTIONAL STEPS. You can go to Anki link if you want audio and cards made thus far
+# EVERYTHING BELOW IS A DRAFT! PLEASE DO NOT RUN ANYTHING AS I AM STILL GETTING THINGS WORKING AND ONLY WRITE NOTES DOWN BELOW TO HELP ME LATER IN WRITING THE README.MD
+
+## OPTIONAL STEPS. You can go to Anki link if you want audio and cards made thus far
 
 Steps:
 

@@ -63,8 +63,11 @@ for word, conjugations in words.items():
         audio_filename = os.path.join(word_folder, f"{word}_{i}.mp3")
         if synthesize_speech(text, audio_filename):
             audio_files.append(audio_filename)
-            my_note = genanki.Note(model=my_template, fields=[
-                                   text, "Translation here", f'[sound:{word}_{i}.mp3]'])
+            my_note = genanki.Note(model=my_template,
+                                   fields=[text, "Translation here",
+                                           f'[sound:{word}_{i}.mp3]'],
+                                   #    tags=["tags"]
+                                   )
             my_deck.add_note(my_note)
 
 genanki.Package(my_deck, media_files=audio_files).write_to_file(
