@@ -208,13 +208,6 @@ Sub. Präteritum: ich ginge du gingest er/sie/es ginge wir gingen ihr ginget sie
 Imperativs: geh, gehe! geht!
 Partizip I: gehend
 Partizip II: gegangen
-####  ####
-Präsens: 
-Präsens: 
-Präsens: 
-Präsens: 
-Präsens: 
-Präsens: 
 #### zu gelten ####
 Präsens: ich gelte du giltst er/sie/es gilt wir gelten ihr geltet sie gelten
 Ind. Präteritum: ich galt du galtest, galtst er/sie/es galt wir galten ihr galtet sie galten
@@ -432,13 +425,6 @@ Sub. Präteritum: ich riefe du riefest er/sie/es riefe wir riefen ihr riefet sie
 Imperativs: ruf, rufe! ruft!
 Partizip I: rufend
 Partizip II: gerufen
-####  ####
-Präsens: 
-Präsens: 
-Präsens: 
-Präsens: 
-Präsens: 
-Präsens: 
 #### zu scheiden ####
 Präsens: ich scheide du scheidest er/sie/es scheidet wir scheiden ihr scheidet sie scheiden
 Ind. Präteritum: ich schied du schiedest, schiedst er/sie/es schied wir schieden ihr schiedet sie schieden
@@ -768,3 +754,15 @@ Sub. Präteritum: ich zwänge du zwängest er/sie/es zwänge wir zwängen ihr zw
 Imperativs: zwing, zwinge! zwingt!
 Partizip I: zwingend
 Partizip II: gezwungen
+#### zu schaffen ####
+Präsens: ich schaffe du schaffst er/sie/es schafft wir schaffen ihr schafft sie schaffen
+Ind. Präteritum: ich schuf du schufst er/sie/es schuf wir schufen ihr schuft sie schufen
+Imperativs: schaff! schafft!
+Partizip I: schaffend
+Partizip II: geschaffen
+#### zu gelingen ####
+Präsens: ich gelinge du gelingst er/sie/es gelingt wir gelingen ihr gelingt sie gelingen
+Ind. Präteritum: ich gelang du gelangst er/sie/es gelang wir gelangen ihr gelangt sie gelangen
+Imperativs: – –
+Partizip I: gelingend
+Partizip II: gelungen
