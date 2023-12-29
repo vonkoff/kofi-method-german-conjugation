@@ -1,0 +1,274 @@
+Verb: backen
+Note: In most dialects, the “backt, backte, hat gebackt” form is preferred, and “gebacken” is used as an adjective, e.g. “gebackener Käse” (baked cheese).
+Verb: befehlen
+Note: 
+Verb: beginnen
+Note: 
+Verb: beißen
+Note: 
+Verb: bekommen
+Note: 
+Verb: beweisen
+Note: 
+Verb: bewegen
+Note: “Bewegen” most usually means “to move”. In this sense, it is completely regular, i.e. “er bewegt, hat bewegt, bewegte”. The irregularity exists only in the sense of “to make/cause/bring someone to do something”.
+Verb: betrügen
+Note: 
+Verb: biegen
+Note: In the sense of bending, the auxiliary verb is “haben” (e.g. “ich habe das Rohr gebogen”). In the sense of turning, which is used mostly with the prefix “ab-”, the auxiliary verb is “sein”, e.g. “ich bin rechts abgebogen”.
+Verb: bieten
+Note: 
+Verb: binden
+Note: 
+Verb: bitten
+Note: 
+Verb: blasen
+Note: 
+Verb: bleiben
+Note: 
+Verb: braten
+Note: 
+Verb: brechen
+Note: If someone has broken something, “er hat es gebrochen”. If something has broken by itself, “es ist gebrochen”.
+Verb: brennen
+Note: 
+Verb: bringen
+Note: 
+Verb: denken
+Note: 
+Verb: dürfen
+Note: The first person singular is “ichdarf”. For subjunctive, only “dürfte” is possible (“würde dürfen” does not exist). In the past, “durfte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen dürfen”.
+Verb: empfehlen
+Note: This verb doesn’t follow the conjugation of “fehlen”, which is completely regular.
+Verb: erschrecken
+Note: Erschrecken can also mean “to scare”, but it is completely regular in this meaning (e.g. “er hat mich erschreckt”).
+Verb: essen
+Note: 
+Verb: fahren
+Note: In the sense of movement, the auxiliary verb is “sein”. Fahren can also mean “to drive a vehicle”, in which case the auxiliary verb is “haben”, e.g. “er hat den Wagen nach Berlin gefahren”.
+Verb: fallen
+Note: 
+Verb: fangen
+Note: 
+Verb: finden
+Note: 
+Verb: fliegen
+Note: In the sense of movement, the auxiliary verb is “sein”. Fliegen can also mean “to fly a plane”, in which case the auxiliary verb is “haben”, e.g. “der Pilot hat das Flugzeug geflogen”.
+Verb: fliehen
+Note: 
+Verb: fließen
+Note: 
+Verb: fressen
+Note: 
+Verb: frieren
+Note: 
+Verb: geben
+Note: 
+Verb: gedeihen
+Note: 
+Verb: gehen
+Note: For subjunctive, both “ginge” and “würde gehen” are common.
+Verb: gelingen
+Note: 
+Verb: gelten
+Note: 
+Verb: genießen
+Note: 
+Verb: geraten
+Note: 
+Verb: geschehen
+Note: Only the third person exists.
+Verb: gewinnen
+Note: 
+Verb: gießen
+Note: 
+Verb: gleichen
+Note: 
+Verb: gleiten
+Note: 
+Verb: graben
+Note: 
+Verb: greifen
+Note: 
+Verb: haben
+Note: For subjunctive, only “hätte” is possible (“würde haben” does not exist). In the past, “hatte” is usually preferred.
+Verb: halten
+Note: 
+Verb: hängen
+Note: 
+Verb: heben
+Note: 
+Verb: heißen
+Note: 
+Verb: helfen
+Note: 
+Verb: kennen
+Note: 
+Verb: klingen
+Note: 
+Verb: kommen
+Note: For subjunctive, both “käme” and “würde kommen” are common. Notice also that “bekommen” has “haben” as auxiliary verb, although it is derived from “kommen”.
+Verb: können
+Note: The first person singular is “ich kann”. For subjunctive, only “könnte” is possible (“würde können” does not exist). In the past, “konnte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen können”.
+Verb: kriechen
+Note: 
+Verb: laden
+Note: 
+Verb: lassen
+Note: For subjunctive, both “ließe” and “würde lassen” are common.
+Verb: laufen
+Note: 
+Verb: leiden
+Note: 
+Verb: leihen
+Note: 
+Verb: lesen
+Note: 
+Verb: liegen
+Note: The auxiliary verb “sein” is used in the South of Germany, “haben” is used in the North of Germany.
+Verb: lügen
+Note: 
+Verb: messen
+Note: 
+Verb: mögen
+Note: The first person singular is “ich mag”. The subjunctive acts as a full modal verb, meaning “would like to”, e.g. “ich möchte ihn treffen” (I would like to meet him).
+Verb: müssen
+Note: The first person singular is “ich muss”. For subjunctive, only “müsste” is possible (“würde müssen” does not exist). In the past, “musste” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen müssen”.
+Verb: nehmen
+Note: 
+Verb: nennen
+Note: 
+Verb: pfeifen
+Note: 
+Verb: raten
+Note: 
+Verb: reiben
+Note: 
+Verb: reißen
+Note: 
+Verb: reiten
+Note: For most meanings both “haben” and “sein” as auxiliary verbs are possible, but for the meaning “to ride a horse”, “sein” is preferred (e.g. “er ist nach Berlin geritten”). If it is used to specify the ridden animal, the auxiliary verb is “haben”, e.g. “er hat ein Kamel geritten” (he rode a camel).
+Verb: rennen
+Note: 
+Verb: riechen
+Note: 
+Verb: rufen
+Note: 
+Verb: schaffen
+Note: The verb “schaffen” is irregular only in the meaning “to create”, e.g “er hat ein Kunstwerk geschaffen”. In the meaning “manage in time”, “catch (a bus)”, or “accomplish”, it is regular, e.g. “er hat die Prüfung geschafft”.
+Verb: scheiden
+Note: 
+Verb: scheinen
+Note: 
+Verb: schieben
+Note: 
+Verb: schießen
+Note: 
+Verb: schlafen
+Note: 
+Verb: schlagen
+Note: 
+Verb: schließen
+Note: 
+Verb: schneiden
+Note: 
+Verb: schreiben
+Note: 
+Verb: schreien
+Note: 
+Verb: schweigen
+Note: 
+Verb: schwellen
+Note: 
+Verb: schwimmen
+Note: When the verb signifies movement, the auxiliary verb is “sein”, e.g. “er ist zur Insel geschwommen” (he swam to the island). When it means just the activity, both “haben” and “sein” are possible, “haben” is preferred in the North of Germany, “sein” in the South.
+Verb: schwingen
+Note: 
+Verb: schwören
+Note: 
+Verb: sehen
+Note: 
+Verb: sein
+Note: For subjunctive, only “wäre” is possible (“würde sein” does not exist). In the past, “war” is usually preferred.
+Verb: senden
+Note: This conjugation is used when “senden” means “to send something physically”, such as a package or a letter. It can also mean “to broadcast or send electronically”, but in this sense it is regular, e.g. “ich habe ihm eine E-Mail gesendet” (I have sent him an e-mail).
+Verb: singen
+Note: 
+Verb: sinken
+Note: 
+Verb: sitzen
+Note: The auxiliary verb “sein” is used in the South of Germany, “haben” is used in the North of Germany.
+Verb: sollen
+Note: The first person singular is “ich soll”. For subjunctive, only “sollte” is possible (“würde sollen” does not exist). In the past, “sollte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen sollen”.
+Verb: sprechen
+Note: 
+Verb: springen
+Note: 
+Verb: stechen
+Note: 
+Verb: stehen
+Note: The auxiliary verb “sein” is used in the South of Germany, “haben” is used in the North of Germany.
+Verb: stehlen
+Note: 
+Verb: steigen
+Note: 
+Verb: sterben
+Note: 
+Verb: stinken
+Note: 
+Verb: stoßen
+Note: The auxiliary verb is “haben” in most meanings. “Sein” is used in the meaning “to hit with a body part”, e.g. “er ist mit dem Kopf an den Türrahmen gestoßen” (he has hit the doorframe with his head) and with the proposition “auf” (in the meaning “to bump into”), e.g. “ich bin auf meine Freundin gestoßen” (I have bumped into my girlfriend).
+Verb: streichen
+Note: In the sense of “stroking” (without a direct object) the auxiliary verb is “sein”, e.g. “er ist ihr übers Haar gestrichen”. Otherwise, it is usually “haben”.
+Verb: streiten
+Note: 
+Verb: tragen
+Note: 
+Verb: treffen
+Note: 
+Verb: treiben
+Note: The auxiliary verb is “haben” in all meanings apart from “being moved forward”, e.g. “das Eis ist auf dem Spiegel des Flusses getrieben” (the ice moved on the surface of the river).
+Verb: treten
+Note: In the meaning “to step somewhere”, the auxiliary verb is “haben”, e.g. “beim Tanzen hat er seiner Partnerin auf den Fuß getreten” (he stepped on his partner’s foot while dancing”. In the meaning “to make a few steps”, the auxiliary verb is “sein”, e.g. “er ist zu uns getreten” (he approached us).
+Verb: trinken
+Note: 
+Verb: trügen
+Note: The subjunctive for “betrügen” (a more usual word for “to deceive”) is “betrüge”.
+Verb: tun
+Note: 
+Verb: verbergen
+Note: 
+Verb: verderben
+Note: 
+Verb: vergessen
+Note: 
+Verb: verlieren
+Note: 
+Verb: vermeiden
+Note: 
+Verb: verschwinden
+Note: 
+Verb: verzeihen
+Note: 
+Verb: wachsen
+Note: 
+Verb: waschen
+Note: 
+Verb: wenden
+Note: 
+Verb: werben
+Note: 
+Verb: werden
+Note: When used in connection with another past particible, the past participle of “werden” is just “worden”, e.g. “er ist von der rausgeschmissen worden” (he has been expelled from the school).
+Verb: werfen
+Note: 
+Verb: wiegen
+Note: 
+Verb: wissen
+Note: For subjunctive, both “wüsste” and “würde wissen” are common.
+Verb: wollen
+Note: The first person singular is “ich will”. For subjunctive, only “wollte” is possible (“würde wollen” does not exist). In the past, “wollte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen wollen”.
+Verb: ziehen
+Note: The auxiliary verb “sein” is used in the sense “to wander, to move”, e.g. “er ist nach Berlin gezogen” (he moved to Berlin), and similarly for related “umziehen” (to move (the place where you live) completely).
+Verb: zwingen
+Note: 
