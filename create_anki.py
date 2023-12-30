@@ -44,7 +44,6 @@ kofi_model = genanki.Model(
     fields=[
         {"name": "UUID"},
         {"name": "Prompt"},
-        {"name": "Similar"},
         {"name": "Notes"}
     ],
     templates=[
@@ -55,9 +54,6 @@ kofi_model = genanki.Model(
             """,  # Front of the card
             "afmt": """
                 {{cloze:Prompt}}<br>
-                <hr id="answer">
-                {{Similar}}<br>
-                <hr>
                 Notes:<br>
                 {{Notes}}
             """  # Back of the card
@@ -70,6 +66,42 @@ words = {
     "laufen": ["Ich laufe", "Du läufst"]
 }
 audio_files = []
+
+Infinitive
+   Das Verb in
+   "er spricht" ist [...]
+   zu sein
+
+Partizip I 
+   Ich sah den Mann,
+   während er über die Vergangenheit [...] ging
+   sprechend
+
+Partizip II 
+   Hugo hat [...]
+   gesprochen
+
+Präsens 
+   ⊙ Jetzt gerade, ⊙
+   Du [...] jetzt über die Vergangenheit.
+   sprichst
+
+Präteritum 
+   ← Zu dieser Zeit, oft, ←
+   Du [...] gestern über die Vergangenheit
+   sprachst
+
+Präteritum Konjunktiv II
+    ↫ Es war überraschend, dass ↫
+    du [...] gestern über die Vergangenheit
+    sprächest
+
+
+Imperativ
+    Bitte, Mann,
+    [...] jetzt!
+    sprich
+
 
 for word, conjugations in words.items():
     word_folder = f"audio_files/{word}"

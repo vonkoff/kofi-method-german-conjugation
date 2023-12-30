@@ -4,4 +4,3 @@ env
 audio_files/*
 !audio_files/README.md
 *.apkg
-scraper.py
