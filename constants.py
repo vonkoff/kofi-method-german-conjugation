@@ -1,7 +1,7 @@
 
 kofi_css = """
-.night_mode { 
-/* 
+.night_mode {
+/*
 disable the color inverter to display colors how I intended them
 See:
 https://github.com/ankidroid/Anki-Android/wiki/Advanced-formatting#customize-night-mode-colors
@@ -73,24 +73,20 @@ orientation_examples, .orientation_examples {
   color: rgb(210, 142, 2);
 }
 
-.sp_verb {  /* the Spanish verb on the back card */
+.de_verb {  /* the German verb on the back card */
   color: rgb(210, 142, 2);
 }
 
-.sp_hint {  /* on the back card, additional text with the answer, e.g. */ (consciente, en Cadiz)
+.de_hint {  /* on the back card, additional text with the answer, e.g. */ (gestern über die Vergangenheit)
   text-align: left;
   color: #999;
 }
 
-.sp_prn { /* the pronoun on the Spanish side. Since it's optional, it can be greyed out */
+.de_prn { /* the pronoun on the Germ side. Since it's optional, it can be greyed out */
   color: #999;
 }
 
-.sp_tu_vos {  /* tú or vos, in the cards that have both */
-  color: rgb(98, 151, 85);
-}
-
-.alt_conj, .alt_to_inf { /* The conjugated form of a similar verb, or the infinitivo if the field is infinitivo */
+.alt_conj, .alt_to_inf { /* The conjugated form of a similar verb, or the infinitive */
   color: rgb(209, 199, 158);
 }
 
@@ -128,7 +124,7 @@ orientation_examples, .orientation_examples {
 }
 
 .note_pop { /* A misc feature to highlight in the notes, e.g. podrí */
-   color: rgb(255, 0, 128); 
+   color: rgb(255, 0, 128);
 }
 
 .note_numb { /* a number in the notes */
@@ -139,7 +135,7 @@ orientation_examples, .orientation_examples {
   color: rgb(209, 199, 158);
 }
 
-.note_sp_word  { /* A Spanish word used in the notes, e.g. 'me' */
+.note_de_word  { /* A German word used in the notes, e.g. 'me' */
   font-style: italic;
 }
 
@@ -149,11 +145,11 @@ orientation_examples, .orientation_examples {
 }
 
 
-.notes_sp_form {  /* One of the answer's conjugated forms, when mentioned in the notes */
+.notes_de_form {  /* One of the answer's conjugated forms, when mentioned in the notes */
   color: rgb(210, 142, 2);
 }
 
-.notes_sp_inf { /*  the Spanish infinitive of the current verb, when mentioned in the notes*/
+.notes_de_inf { /*  the German infinitive of the current verb, when mentioned in the notes*/
   font-style: italic;
   color: rgb(209, 199, 158);
 }
@@ -161,7 +157,7 @@ orientation_examples, .orientation_examples {
 .notes_usage { /* something specific, like sea lo que fuere*/
   color: rgb(113, 171, 194);
   font-style: italic;
-}                                  
+}
 
 .notes_usage a:link, .notes_usage a:visited, .notes_usage a:active, .notes_usage a:hover {
   color: rgb(113, 171, 194);
@@ -171,13 +167,13 @@ orientation_examples, .orientation_examples {
 
 .notes_usage_english { /* translation of something specific, like sea lo que fuere*/
   font-style: italic;
-}                                  
-                                  
+}
+
 .dle_conj a:link, .dle_conj a:visited, .dle_conj a:active {
   color: rgb(209, 199, 158);
   border-bottom: 1px dashed rgb(88, 157, 246);
   text-decoration: none;
-  font-style: italic;  
+  font-style: italic;
 }
 
 .dle_conj a:hover {
@@ -203,7 +199,7 @@ orientation_examples, .orientation_examples {
 .cloze_pronoun {  /*  the pronoun on the front */
 
 }
-                  
+
 .manual {
   font-size: 0.8em;
   color: #999;
@@ -213,7 +209,7 @@ orientation_examples, .orientation_examples {
   color: rgb(255, 128, 64);
   border-bottom: 1px dashed rgb(255, 128, 64);
   text-decoration: none;
-  font-style: italic;  
+  font-style: italic;
 }
 
 .manual a:hover {
@@ -241,7 +237,7 @@ Snippets:
   color: rgb(31, 139, 210);
   color: rgb(104, 151, 187);
 }
-.brown { 
+.brown {
   color: rgb(210, 142, 2);
 }
 .pink {

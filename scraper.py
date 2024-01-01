@@ -131,7 +131,6 @@ for verb_info in verbs:
             prateritums = []
             prateritums_sub = []
             imperativs = []
-            infinitivs = []
             partizipIs = []
             partizipIIs = []
             for table in tables:
@@ -146,26 +145,17 @@ for verb_info in verbs:
                     #! Need to add in infinitive + wir/sie
                     #! Also add in
                     appendCon(imperativs, table, True)
-                if "Infinitiv" in table.text and not infinitivs:
-                    appendCon(infinitivs, table)
                 if "Partizip I" in table.text and not partizipIs:
                     appendCon(partizipIs, table)
                 if "Partizip II" in table.text and not partizipIIs:
                     appendCon(partizipIIs, table)
 
-            # print(prasens)
-            # print(prateritums)
-            # print(imperativs)
-            # print(infinitivs)
-            # print(partizipIIs, partizipIs)
-
             for i in range(0, 7):
                 conjugations = ["", prasens, prateritums, prateritums_sub,
                                 imperativs, partizipIs, partizipIIs]
                 if i == 0:
-                    # print(" ".join(infinitivs), f"count -> {i}")
                     f.writelines(
-                        ['#### ', " ".join(infinitivs), " ####", "\n"])
+                        ['#### ', "zu ", verb, "\n"])
                     f.writelines(["Note: ", note, "\n"])  # Include the note
                 else:
                     tense = ""
