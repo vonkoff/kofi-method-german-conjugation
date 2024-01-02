@@ -1,4 +1,14 @@
 
+templates = {
+    "Präsens": "⊙ Jetzt gerade, ⊙<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> über die Vergangenheit.",
+    "Ind. Präteritum": "← Zu dieser Zeit, oft, ←<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
+    "Sub. Präteritum": "↫ Es war überraschend, dass ↫<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
+    "Imperativs": "Bitte, Mann,<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> jetzt!",
+    "Partizip I": "Ich sah den Mann, während er über die Vergangenheit <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> ging",
+    "Partizip II": "Das Objekt wurde <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span>",
+    "Infinitiv": "Das Verb in<br><span class=\"cloze_hilite\">er {1}</span><br>ist zu <span class=\"de_verb\">{{{{c1::{0}}}}}</span>"
+}
+
 kofi_css = """
 .night_mode {
 /*
@@ -10,7 +20,7 @@ https://github.com/ankidroid/Anki-Android/issues/6921
 }
 
 .card {
- font-family: arial;
+ font-family: Arial;
  font-size: 20px;
  text-align: center;
  color: black;
