@@ -1,5 +1,5 @@
 VERB: befehlen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich befehle::befehlen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du befiehlst::befehlen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er befiehlt::befehlen}}</span> über die Vergangenheit.
@@ -20,11 +20,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie beföhlen::befehlen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::befiehl::befehlen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::befehlt::befehlen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::befehlend::befehlen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::befohlen::befehlen}}</span>
+Beim <span class="de_verb">{{c1::befehlend::befehlen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::befohlen::befehlen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er befiehlt</span><br>ist zu <span class="de_verb">{{c1::befehlen}}</span>
 VERB: beginnen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich beginne::beginnen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du beginnst::beginnen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie beginnt::beginnen}}</span> über die Vergangenheit.
@@ -45,11 +45,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie begönnen::beginnen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::beginn::beginnen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::beginnt::beginnen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::beginnend::beginnen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::begonnen::beginnen}}</span>
+Beim <span class="de_verb">{{c1::beginnend::beginnen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::begonnen::beginnen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er beginnt</span><br>ist zu <span class="de_verb">{{c1::beginnen}}</span>
 VERB: bekommen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich bekomme::bekommen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du bekommst::bekommen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er bekommt::bekommen}}</span> über die Vergangenheit.
@@ -70,11 +70,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie bekämen::bekommen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::bekomm::bekommen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::bekommt::bekommen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::bekommend::bekommen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::bekommen::bekommen}}</span>
+Beim <span class="de_verb">{{c1::bekommend::bekommen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::bekommen::bekommen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bekommt</span><br>ist zu <span class="de_verb">{{c1::bekommen}}</span>
 VERB: beweisen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich beweise::beweisen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du beweist::beweisen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie beweist::beweisen}}</span> über die Vergangenheit.
@@ -95,11 +95,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie bewiesen::beweisen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::beweis::beweisen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::beweist::beweisen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::beweisend::beweisen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::bewiesen::beweisen}}</span>
+Beim <span class="de_verb">{{c1::beweisend::beweisen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::bewiesen::beweisen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er beweist</span><br>ist zu <span class="de_verb">{{c1::beweisen}}</span>
 VERB: betrügen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich betrüge::betrügen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du betrügst::betrügen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es betrügt::betrügen}}</span> über die Vergangenheit.
@@ -120,8 +120,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie betrögen::betrügen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::betrüg::betrügen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::betrügt::betrügen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::betrügend::betrügen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::betrogen::betrügen}}</span>
+Beim <span class="de_verb">{{c1::betrügend::betrügen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::betrogen::betrügen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er betrügt</span><br>ist zu <span class="de_verb">{{c1::betrügen}}</span>
 VERB: biegen
 NOTE: In the sense of bending, the auxiliary verb is “haben” (e.g. “ich habe das Rohr gebogen”). In the sense of turning, which is used mostly with the prefix “ab-”, the auxiliary verb is “sein”, e.g. “ich bin rechts abgebogen”.
@@ -145,11 +145,11 @@ NOTE: In the sense of bending, the auxiliary verb is “haben” (e.g. “ich ha
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie bögen::biegen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::bieg::biegen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::biegt::biegen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::biegend::biegen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gebogen::biegen}}</span>
+Beim <span class="de_verb">{{c1::biegend::biegen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gebogen::biegen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er biegt</span><br>ist zu <span class="de_verb">{{c1::biegen}}</span>
 VERB: bieten
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich biete::bieten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du bietest::bieten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es bietet::bieten}}</span> über die Vergangenheit.
@@ -170,11 +170,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie böten::bieten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::biet::bieten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::bietet::bieten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::bietend::bieten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geboten::bieten}}</span>
+Beim <span class="de_verb">{{c1::bietend::bieten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geboten::bieten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bietet</span><br>ist zu <span class="de_verb">{{c1::bieten}}</span>
 VERB: binden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich binde::binden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du bindest::binden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er bindet::binden}}</span> über die Vergangenheit.
@@ -195,11 +195,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie bänden::binden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::bind::binden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::bindet::binden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::bindend::binden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gebunden::binden}}</span>
+Beim <span class="de_verb">{{c1::bindend::binden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gebunden::binden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bindet</span><br>ist zu <span class="de_verb">{{c1::binden}}</span>
 VERB: bitten
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich bitte::bitten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du bittest::bitten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie bittet::bitten}}</span> über die Vergangenheit.
@@ -220,11 +220,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie bäten::bitten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::bitt::bitten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::bittet::bitten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::bittend::bitten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gebeten::bitten}}</span>
+Beim <span class="de_verb">{{c1::bittend::bitten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gebeten::bitten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bittet</span><br>ist zu <span class="de_verb">{{c1::bitten}}</span>
 VERB: blasen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich blase::blasen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du bläst::blasen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es bläst::blasen}}</span> über die Vergangenheit.
@@ -245,11 +245,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie bliesen::blasen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::blas::blasen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::blast::blasen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::blasend::blasen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geblasen::blasen}}</span>
+Beim <span class="de_verb">{{c1::blasend::blasen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geblasen::blasen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bläst</span><br>ist zu <span class="de_verb">{{c1::blasen}}</span>
 VERB: bleiben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich bleibe::bleiben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du bleibst::bleiben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er bleibt::bleiben}}</span> über die Vergangenheit.
@@ -270,11 +270,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie blieben::bleiben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::bleib::bleiben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::bleibt::bleiben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::bleibend::bleiben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geblieben::bleiben}}</span>
+Beim <span class="de_verb">{{c1::bleibend::bleiben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geblieben::bleiben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bleibt</span><br>ist zu <span class="de_verb">{{c1::bleiben}}</span>
 VERB: braten
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich brate::braten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du brätst::braten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es brät::braten}}</span> über die Vergangenheit.
@@ -295,8 +295,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie brieten::braten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::brat::braten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::bratet::braten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::bratend::braten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gebraten::braten}}</span>
+Beim <span class="de_verb">{{c1::bratend::braten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gebraten::braten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er brät</span><br>ist zu <span class="de_verb">{{c1::braten}}</span>
 VERB: brechen
 NOTE: If someone has broken something, “er hat es gebrochen”. If something has broken by itself, “es ist gebrochen”.
@@ -320,11 +320,11 @@ NOTE: If someone has broken something, “er hat es gebrochen”. If something h
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie brächen::brechen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::brich::brechen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::brecht::brechen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::brechend::brechen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gebrochen::brechen}}</span>
+Beim <span class="de_verb">{{c1::brechend::brechen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gebrochen::brechen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bricht</span><br>ist zu <span class="de_verb">{{c1::brechen}}</span>
 VERB: brennen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich brenne::brennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du brennst::brennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er brennt::brennen}}</span> über die Vergangenheit.
@@ -345,11 +345,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie brennten::brennen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::brenn::brennen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::brennt::brennen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::brennend::brennen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gebrannt::brennen}}</span>
+Beim <span class="de_verb">{{c1::brennend::brennen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gebrannt::brennen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er brennt</span><br>ist zu <span class="de_verb">{{c1::brennen}}</span>
 VERB: bringen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich bringe::bringen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du bringst::bringen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es bringt::bringen}}</span> über die Vergangenheit.
@@ -370,11 +370,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie brächten::bringen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::bring::bringen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::bringt::bringen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::bringend::bringen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gebracht::bringen}}</span>
+Beim <span class="de_verb">{{c1::bringend::bringen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gebracht::bringen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er bringt</span><br>ist zu <span class="de_verb">{{c1::bringen}}</span>
 VERB: denken
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich denke::denken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du denkst::denken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es denkt::denken}}</span> über die Vergangenheit.
@@ -395,8 +395,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie dächten::denken}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::denk::denken}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::denkt::denken}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::denkend::denken}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gedacht::denken}}</span>
+Beim <span class="de_verb">{{c1::denkend::denken}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gedacht::denken}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er denkt</span><br>ist zu <span class="de_verb">{{c1::denken}}</span>
 VERB: dürfen
 NOTE: The first person singular is “ichdarf”. For subjunctive, only “dürfte” is possible (“würde dürfen” does not exist). In the past, “durfte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen dürfen”.
@@ -418,8 +418,8 @@ NOTE: The first person singular is “ichdarf”. For subjunctive, only “dürf
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::wir dürften::dürfen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::ihr dürftet::dürfen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie dürften::dürfen}}</span> gestern über die Vergangenheit
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::dürfend::dürfen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::dürfen::dürfen}}</span>
+Beim <span class="de_verb">{{c1::dürfend::dürfen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::dürfen::dürfen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er darf</span><br>ist zu <span class="de_verb">{{c1::dürfen}}</span>
 VERB: empfehlen
 NOTE: This verb doesn’t follow the conjugation of “fehlen”, which is completely regular.
@@ -443,11 +443,11 @@ NOTE: This verb doesn’t follow the conjugation of “fehlen”, which is compl
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie empföhlen::empfehlen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::empfiehl::empfehlen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::empfehlt::empfehlen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::empfehlend::empfehlen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::empfohlen::empfehlen}}</span>
+Beim <span class="de_verb">{{c1::empfehlend::empfehlen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::empfohlen::empfehlen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er empfiehlt</span><br>ist zu <span class="de_verb">{{c1::empfehlen}}</span>
 VERB: essen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich esse::essen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du isst::essen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er isst::essen}}</span> über die Vergangenheit.
@@ -468,8 +468,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie äßen::essen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::iss::essen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::esst::essen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::essend::essen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gegessen::essen}}</span>
+Beim <span class="de_verb">{{c1::essend::essen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gegessen::essen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er isst</span><br>ist zu <span class="de_verb">{{c1::essen}}</span>
 VERB: fahren
 NOTE: In the sense of movement, the auxiliary verb is “sein”. Fahren can also mean “to drive a vehicle”, in which case the auxiliary verb is “haben”, e.g. “er hat den Wagen nach Berlin gefahren”.
@@ -493,11 +493,11 @@ NOTE: In the sense of movement, the auxiliary verb is “sein”. Fahren can als
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie führen::fahren}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::fahr::fahren}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::fahrt::fahren}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::fahrend::fahren}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gefahren::fahren}}</span>
+Beim <span class="de_verb">{{c1::fahrend::fahren}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gefahren::fahren}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er fährt</span><br>ist zu <span class="de_verb">{{c1::fahren}}</span>
 VERB: fallen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich falle::fallen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du fällst::fallen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er fällt::fallen}}</span> über die Vergangenheit.
@@ -518,11 +518,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie fielen::fallen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::fall::fallen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::fallt::fallen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::fallend::fallen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gefallen::fallen}}</span>
+Beim <span class="de_verb">{{c1::fallend::fallen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gefallen::fallen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er fällt</span><br>ist zu <span class="de_verb">{{c1::fallen}}</span>
 VERB: fangen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich fange::fangen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du fängst::fangen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es fängt::fangen}}</span> über die Vergangenheit.
@@ -543,11 +543,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie fingen::fangen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::fang::fangen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::fangt::fangen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::fangend::fangen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gefangen::fangen}}</span>
+Beim <span class="de_verb">{{c1::fangend::fangen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gefangen::fangen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er fängt</span><br>ist zu <span class="de_verb">{{c1::fangen}}</span>
 VERB: finden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich finde::finden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du findest::finden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er findet::finden}}</span> über die Vergangenheit.
@@ -568,8 +568,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie fänden::finden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::find::finden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::findet::finden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::findend::finden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gefunden::finden}}</span>
+Beim <span class="de_verb">{{c1::findend::finden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gefunden::finden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er findet</span><br>ist zu <span class="de_verb">{{c1::finden}}</span>
 VERB: fliegen
 NOTE: In the sense of movement, the auxiliary verb is “sein”. Fliegen can also mean “to fly a plane”, in which case the auxiliary verb is “haben”, e.g. “der Pilot hat das Flugzeug geflogen”.
@@ -593,11 +593,11 @@ NOTE: In the sense of movement, the auxiliary verb is “sein”. Fliegen can al
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie flögen::fliegen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::flieg::fliegen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::fliegt::fliegen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::fliegend::fliegen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geflogen::fliegen}}</span>
+Beim <span class="de_verb">{{c1::fliegend::fliegen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geflogen::fliegen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er fliegt</span><br>ist zu <span class="de_verb">{{c1::fliegen}}</span>
 VERB: fliehen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich fliehe::fliehen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du fliehst::fliehen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es flieht::fliehen}}</span> über die Vergangenheit.
@@ -618,11 +618,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie flöhen::fliehen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::flieh::fliehen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::flieht::fliehen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::fliehend::fliehen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geflohen::fliehen}}</span>
+Beim <span class="de_verb">{{c1::fliehend::fliehen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geflohen::fliehen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er flieht</span><br>ist zu <span class="de_verb">{{c1::fliehen}}</span>
 VERB: fressen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich fresse::fressen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du frisst::fressen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie frisst::fressen}}</span> über die Vergangenheit.
@@ -643,11 +643,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie fräßen::fressen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::friss::fressen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::fresst::fressen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::fressend::fressen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gefressen::fressen}}</span>
+Beim <span class="de_verb">{{c1::fressend::fressen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gefressen::fressen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er frisst</span><br>ist zu <span class="de_verb">{{c1::fressen}}</span>
 VERB: frieren
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich friere::frieren}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du frierst::frieren}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er friert::frieren}}</span> über die Vergangenheit.
@@ -668,11 +668,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie frören::frieren}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::frier::frieren}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::friert::frieren}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::frierend::frieren}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gefroren::frieren}}</span>
+Beim <span class="de_verb">{{c1::frierend::frieren}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gefroren::frieren}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er friert</span><br>ist zu <span class="de_verb">{{c1::frieren}}</span>
 VERB: geben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich gebe::geben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du gibst::geben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie gibt::geben}}</span> über die Vergangenheit.
@@ -693,11 +693,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie gäben::geben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::gib::geben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::gebt::geben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::gebend::geben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gegeben::geben}}</span>
+Beim <span class="de_verb">{{c1::gebend::geben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gegeben::geben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er gibt</span><br>ist zu <span class="de_verb">{{c1::geben}}</span>
 VERB: gedeihen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich gedeihe::gedeihen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du gedeihst::gedeihen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie gedeiht::gedeihen}}</span> über die Vergangenheit.
@@ -718,8 +718,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie gediehen::gedeihen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::gedeih::gedeihen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::gedeiht::gedeihen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::gedeihend::gedeihen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gediehen::gedeihen}}</span>
+Beim <span class="de_verb">{{c1::gedeihend::gedeihen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gediehen::gedeihen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er gedeiht</span><br>ist zu <span class="de_verb">{{c1::gedeihen}}</span>
 VERB: gehen
 NOTE: For subjunctive, both “ginge” and “würde gehen” are common.
@@ -743,11 +743,11 @@ NOTE: For subjunctive, both “ginge” and “würde gehen” are common.
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie gingen::gehen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::geh::gehen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::geht::gehen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::gehend::gehen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gegangen::gehen}}</span>
+Beim <span class="de_verb">{{c1::gehend::gehen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gegangen::gehen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er geht</span><br>ist zu <span class="de_verb">{{c1::gehen}}</span>
 VERB: gelten
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich gelte::gelten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du giltst::gelten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er gilt::gelten}}</span> über die Vergangenheit.
@@ -768,8 +768,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie gölten::gelten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::gilt::gelten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::geltet::gelten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::geltend::gelten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gegolten::gelten}}</span>
+Beim <span class="de_verb">{{c1::geltend::gelten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gegolten::gelten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er gilt</span><br>ist zu <span class="de_verb">{{c1::gelten}}</span>
 VERB: geschehen
 NOTE: Only the third person exists.
@@ -791,11 +791,11 @@ NOTE: Only the third person exists.
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::wir –::geschehen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::ihr –::geschehen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie geschähen::geschehen}}</span> gestern über die Vergangenheit
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::geschehend::geschehen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschehen::geschehen}}</span>
+Beim <span class="de_verb">{{c1::geschehend::geschehen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschehen::geschehen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er geschieht</span><br>ist zu <span class="de_verb">{{c1::geschehen}}</span>
 VERB: gewinnen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich gewinne::gewinnen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du gewinnst::gewinnen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er gewinnt::gewinnen}}</span> über die Vergangenheit.
@@ -816,11 +816,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie gewönnen::gewinnen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::gewinn::gewinnen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::gewinnt::gewinnen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::gewinnend::gewinnen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gewonnen::gewinnen}}</span>
+Beim <span class="de_verb">{{c1::gewinnend::gewinnen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gewonnen::gewinnen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er gewinnt</span><br>ist zu <span class="de_verb">{{c1::gewinnen}}</span>
 VERB: gleichen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich gleiche::gleichen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du gleichst::gleichen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es gleicht::gleichen}}</span> über die Vergangenheit.
@@ -841,11 +841,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie glichen::gleichen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::gleich::gleichen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::gleicht::gleichen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::gleichend::gleichen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geglichen::gleichen}}</span>
+Beim <span class="de_verb">{{c1::gleichend::gleichen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geglichen::gleichen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er gleicht</span><br>ist zu <span class="de_verb">{{c1::gleichen}}</span>
 VERB: gleiten
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich gleite::gleiten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du gleitest::gleiten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er gleitet::gleiten}}</span> über die Vergangenheit.
@@ -866,11 +866,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie glitten::gleiten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::gleit::gleiten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::gleitet::gleiten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::gleitend::gleiten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geglitten::gleiten}}</span>
+Beim <span class="de_verb">{{c1::gleitend::gleiten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geglitten::gleiten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er gleitet</span><br>ist zu <span class="de_verb">{{c1::gleiten}}</span>
 VERB: graben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich grabe::graben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du gräbst::graben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es gräbt::graben}}</span> über die Vergangenheit.
@@ -891,11 +891,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie grüben::graben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::grab::graben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::grabt::graben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::grabend::graben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gegraben::graben}}</span>
+Beim <span class="de_verb">{{c1::grabend::graben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gegraben::graben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er gräbt</span><br>ist zu <span class="de_verb">{{c1::graben}}</span>
 VERB: greifen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich greife::greifen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du greifst::greifen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie greift::greifen}}</span> über die Vergangenheit.
@@ -916,11 +916,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie griffen::greifen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::greif::greifen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::greift::greifen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::greifend::greifen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gegriffen::greifen}}</span>
+Beim <span class="de_verb">{{c1::greifend::greifen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gegriffen::greifen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er greift</span><br>ist zu <span class="de_verb">{{c1::greifen}}</span>
 VERB: halten
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich halte::halten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du hältst::halten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie hält::halten}}</span> über die Vergangenheit.
@@ -941,11 +941,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie hielten::halten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::halt::halten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::haltet::halten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::haltend::halten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gehalten::halten}}</span>
+Beim <span class="de_verb">{{c1::haltend::halten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gehalten::halten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er hält</span><br>ist zu <span class="de_verb">{{c1::halten}}</span>
 VERB: heben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich hebe::heben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du hebst::heben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es hebt::heben}}</span> über die Vergangenheit.
@@ -966,11 +966,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie hüben::heben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::heb::heben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::hebt::heben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::hebend::heben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gehoben::heben}}</span>
+Beim <span class="de_verb">{{c1::hebend::heben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gehoben::heben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er hebt</span><br>ist zu <span class="de_verb">{{c1::heben}}</span>
 VERB: helfen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich helfe::helfen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du hilfst::helfen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie hilft::helfen}}</span> über die Vergangenheit.
@@ -991,11 +991,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie hülfen::helfen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::hilf::helfen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::helft::helfen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::helfend::helfen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geholfen::helfen}}</span>
+Beim <span class="de_verb">{{c1::helfend::helfen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geholfen::helfen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er hilft</span><br>ist zu <span class="de_verb">{{c1::helfen}}</span>
 VERB: kennen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich kenne::kennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du kennst::kennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er kennt::kennen}}</span> über die Vergangenheit.
@@ -1016,11 +1016,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie kennten::kennen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::kenn::kennen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::kennt::kennen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::kennend::kennen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gekannt::kennen}}</span>
+Beim <span class="de_verb">{{c1::kennend::kennen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gekannt::kennen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er kennt</span><br>ist zu <span class="de_verb">{{c1::kennen}}</span>
 VERB: klingen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich klinge::klingen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du klingst::klingen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es klingt::klingen}}</span> über die Vergangenheit.
@@ -1041,8 +1041,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie klängen::klingen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::kling::klingen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::klingt::klingen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::klingend::klingen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geklungen::klingen}}</span>
+Beim <span class="de_verb">{{c1::klingend::klingen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geklungen::klingen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er klingt</span><br>ist zu <span class="de_verb">{{c1::klingen}}</span>
 VERB: kommen
 NOTE: For subjunctive, both “käme” and “würde kommen” are common. Notice also that “bekommen” has “haben” as auxiliary verb, although it is derived from “kommen”.
@@ -1066,8 +1066,8 @@ NOTE: For subjunctive, both “käme” and “würde kommen” are common. Noti
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie kämen::kommen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::komm::kommen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::kommt::kommen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::kommend::kommen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gekommen::kommen}}</span>
+Beim <span class="de_verb">{{c1::kommend::kommen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gekommen::kommen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er kommt</span><br>ist zu <span class="de_verb">{{c1::kommen}}</span>
 VERB: können
 NOTE: The first person singular is “ich kann”. For subjunctive, only “könnte” is possible (“würde können” does not exist). In the past, “konnte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen können”.
@@ -1089,11 +1089,11 @@ NOTE: The first person singular is “ich kann”. For subjunctive, only “kön
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::wir könnten::können}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::ihr könntet::können}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie könnten::können}}</span> gestern über die Vergangenheit
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::könnend::können}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::können::können}}</span>
+Beim <span class="de_verb">{{c1::könnend::können}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::können::können}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er kann</span><br>ist zu <span class="de_verb">{{c1::können}}</span>
 VERB: kriechen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich krieche::kriechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du kriechst::kriechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie kriecht::kriechen}}</span> über die Vergangenheit.
@@ -1114,8 +1114,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie kröchen::kriechen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::kriech::kriechen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::kriecht::kriechen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::kriechend::kriechen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gekrochen::kriechen}}</span>
+Beim <span class="de_verb">{{c1::kriechend::kriechen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gekrochen::kriechen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er kriecht</span><br>ist zu <span class="de_verb">{{c1::kriechen}}</span>
 VERB: lassen
 NOTE: For subjunctive, both “ließe” and “würde lassen” are common.
@@ -1139,11 +1139,11 @@ NOTE: For subjunctive, both “ließe” and “würde lassen” are common.
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie ließen::lassen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::lass::lassen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::lasst::lassen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::lassend::lassen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gelassen::lassen}}</span>
+Beim <span class="de_verb">{{c1::lassend::lassen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gelassen::lassen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er lässt</span><br>ist zu <span class="de_verb">{{c1::lassen}}</span>
 VERB: laufen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich laufe::laufen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du läufst::laufen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es läuft::laufen}}</span> über die Vergangenheit.
@@ -1164,11 +1164,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie liefen::laufen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::lauf::laufen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::lauft::laufen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::laufend::laufen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gelaufen::laufen}}</span>
+Beim <span class="de_verb">{{c1::laufend::laufen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gelaufen::laufen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er läuft</span><br>ist zu <span class="de_verb">{{c1::laufen}}</span>
 VERB: leiden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich leide::leiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du leidest::leiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er leidet::leiden}}</span> über die Vergangenheit.
@@ -1189,11 +1189,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie litten::leiden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::leide::leiden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::leidet::leiden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::leidend::leiden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gelitten::leiden}}</span>
+Beim <span class="de_verb">{{c1::leidend::leiden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gelitten::leiden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er leidet</span><br>ist zu <span class="de_verb">{{c1::leiden}}</span>
 VERB: leihen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich leihe::leihen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du leihst::leihen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie leiht::leihen}}</span> über die Vergangenheit.
@@ -1214,11 +1214,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie liehen::leihen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::leih::leihen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::leiht::leihen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::leihend::leihen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geliehen::leihen}}</span>
+Beim <span class="de_verb">{{c1::leihend::leihen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geliehen::leihen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er leiht</span><br>ist zu <span class="de_verb">{{c1::leihen}}</span>
 VERB: lügen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich lüge::lügen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du lügst::lügen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie lügt::lügen}}</span> über die Vergangenheit.
@@ -1239,11 +1239,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie lögen::lügen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::lüg::lügen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::lügt::lügen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::lügend::lügen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gelogen::lügen}}</span>
+Beim <span class="de_verb">{{c1::lügend::lügen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gelogen::lügen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er lügt</span><br>ist zu <span class="de_verb">{{c1::lügen}}</span>
 VERB: messen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich messe::messen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du misst::messen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie misst::messen}}</span> über die Vergangenheit.
@@ -1264,8 +1264,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie mäßen::messen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::miss::messen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::messt::messen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::messend::messen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gemessen::messen}}</span>
+Beim <span class="de_verb">{{c1::messend::messen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gemessen::messen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er misst</span><br>ist zu <span class="de_verb">{{c1::messen}}</span>
 VERB: mögen
 NOTE: The first person singular is “ich mag”. The subjunctive acts as a full modal verb, meaning “would like to”, e.g. “ich möchte ihn treffen” (I would like to meet him).
@@ -1287,8 +1287,8 @@ NOTE: The first person singular is “ich mag”. The subjunctive acts as a full
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::wir möchten::mögen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::ihr möchtet::mögen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie möchten::mögen}}</span> gestern über die Vergangenheit
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::mögend::mögen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::mögen::mögen}}</span>
+Beim <span class="de_verb">{{c1::mögend::mögen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::mögen::mögen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er mag</span><br>ist zu <span class="de_verb">{{c1::mögen}}</span>
 VERB: müssen
 NOTE: The first person singular is “ich muss”. For subjunctive, only “müsste” is possible (“würde müssen” does not exist). In the past, “musste” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen müssen”.
@@ -1310,11 +1310,11 @@ NOTE: The first person singular is “ich muss”. For subjunctive, only “müs
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::wir müssten::müssen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::ihr müsstet::müssen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie müssten::müssen}}</span> gestern über die Vergangenheit
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::müssend::müssen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::müssen::müssen}}</span>
+Beim <span class="de_verb">{{c1::müssend::müssen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::müssen::müssen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er muss</span><br>ist zu <span class="de_verb">{{c1::müssen}}</span>
 VERB: nehmen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich nehme::nehmen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du nimmst::nehmen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie nimmt::nehmen}}</span> über die Vergangenheit.
@@ -1335,11 +1335,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie nähmen::nehmen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::nimm::nehmen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::nehmt::nehmen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::nehmend::nehmen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::genommen::nehmen}}</span>
+Beim <span class="de_verb">{{c1::nehmend::nehmen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::genommen::nehmen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er nimmt</span><br>ist zu <span class="de_verb">{{c1::nehmen}}</span>
 VERB: nennen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich nenne::nennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du nennst::nennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es nennt::nennen}}</span> über die Vergangenheit.
@@ -1360,11 +1360,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie nennten::nennen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::nenn::nennen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::nennt::nennen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::nennend::nennen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::genannt::nennen}}</span>
+Beim <span class="de_verb">{{c1::nennend::nennen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::genannt::nennen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er nennt</span><br>ist zu <span class="de_verb">{{c1::nennen}}</span>
 VERB: pfeifen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich pfeife::pfeifen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du pfeifst::pfeifen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie pfeift::pfeifen}}</span> über die Vergangenheit.
@@ -1385,11 +1385,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie pfiffen::pfeifen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::pfeif::pfeifen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::pfeift::pfeifen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::pfeifend::pfeifen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gepfiffen::pfeifen}}</span>
+Beim <span class="de_verb">{{c1::pfeifend::pfeifen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gepfiffen::pfeifen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er pfeift</span><br>ist zu <span class="de_verb">{{c1::pfeifen}}</span>
 VERB: reiben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich reibe::reiben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du reibst::reiben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es reibt::reiben}}</span> über die Vergangenheit.
@@ -1410,8 +1410,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie rieben::reiben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::reib::reiben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::reibt::reiben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::reibend::reiben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gerieben::reiben}}</span>
+Beim <span class="de_verb">{{c1::reibend::reiben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gerieben::reiben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er reibt</span><br>ist zu <span class="de_verb">{{c1::reiben}}</span>
 VERB: reiten
 NOTE: For most meanings both “haben” and “sein” as auxiliary verbs are possible, but for the meaning “to ride a horse”, “sein” is preferred (e.g. “er ist nach Berlin geritten”). If it is used to specify the ridden animal, the auxiliary verb is “haben”, e.g. “er hat ein Kamel geritten” (he rode a camel).
@@ -1435,11 +1435,11 @@ NOTE: For most meanings both “haben” and “sein” as auxiliary verbs are p
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie ritten::reiten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::reit::reiten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::reitet::reiten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::reitend::reiten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geritten::reiten}}</span>
+Beim <span class="de_verb">{{c1::reitend::reiten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geritten::reiten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er reitet</span><br>ist zu <span class="de_verb">{{c1::reiten}}</span>
 VERB: rennen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich renne::rennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du rennst::rennen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er rennt::rennen}}</span> über die Vergangenheit.
@@ -1460,11 +1460,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie rennten::rennen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::renn::rennen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::rennt::rennen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::rennend::rennen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gerannt::rennen}}</span>
+Beim <span class="de_verb">{{c1::rennend::rennen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gerannt::rennen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er rennt</span><br>ist zu <span class="de_verb">{{c1::rennen}}</span>
 VERB: riechen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich rieche::riechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du riechst::riechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er riecht::riechen}}</span> über die Vergangenheit.
@@ -1485,11 +1485,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie röchen::riechen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::riech::riechen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::riecht::riechen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::riechend::riechen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gerochen::riechen}}</span>
+Beim <span class="de_verb">{{c1::riechend::riechen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gerochen::riechen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er riecht</span><br>ist zu <span class="de_verb">{{c1::riechen}}</span>
 VERB: rufen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich rufe::rufen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du rufst::rufen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie ruft::rufen}}</span> über die Vergangenheit.
@@ -1510,11 +1510,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie riefen::rufen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::ruf::rufen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::ruft::rufen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::rufend::rufen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gerufen::rufen}}</span>
+Beim <span class="de_verb">{{c1::rufend::rufen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gerufen::rufen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er ruft</span><br>ist zu <span class="de_verb">{{c1::rufen}}</span>
 VERB: scheiden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich scheide::scheiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du scheidest::scheiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie scheidet::scheiden}}</span> über die Vergangenheit.
@@ -1535,11 +1535,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schieden::scheiden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::scheid::scheiden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::scheidet::scheiden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::scheidend::scheiden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschieden::scheiden}}</span>
+Beim <span class="de_verb">{{c1::scheidend::scheiden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschieden::scheiden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er scheidet</span><br>ist zu <span class="de_verb">{{c1::scheiden}}</span>
 VERB: scheinen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich scheine::scheinen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du scheinst::scheinen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie scheint::scheinen}}</span> über die Vergangenheit.
@@ -1560,11 +1560,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schienen::scheinen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schein::scheinen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::scheint::scheinen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::scheinend::scheinen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschienen::scheinen}}</span>
+Beim <span class="de_verb">{{c1::scheinend::scheinen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschienen::scheinen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er scheint</span><br>ist zu <span class="de_verb">{{c1::scheinen}}</span>
 VERB: schieben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schiebe::schieben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schiebst::schieben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie schiebt::schieben}}</span> über die Vergangenheit.
@@ -1585,11 +1585,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schöben::schieben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schieb::schieben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schiebt::schieben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schiebend::schieben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschoben::schieben}}</span>
+Beim <span class="de_verb">{{c1::schiebend::schieben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschoben::schieben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schiebt</span><br>ist zu <span class="de_verb">{{c1::schieben}}</span>
 VERB: schlafen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schlafe::schlafen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schläfst::schlafen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er schläft::schlafen}}</span> über die Vergangenheit.
@@ -1610,11 +1610,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schliefen::schlafen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schlaf::schlafen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schlaft::schlafen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schlafend::schlafen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschlafen::schlafen}}</span>
+Beim <span class="de_verb">{{c1::schlafend::schlafen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschlafen::schlafen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schläft</span><br>ist zu <span class="de_verb">{{c1::schlafen}}</span>
 VERB: schlagen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schlage::schlagen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schlägst::schlagen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er schlägt::schlagen}}</span> über die Vergangenheit.
@@ -1635,11 +1635,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schlügen::schlagen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schlag::schlagen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schlagt::schlagen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schlagend::schlagen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschlagen::schlagen}}</span>
+Beim <span class="de_verb">{{c1::schlagend::schlagen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschlagen::schlagen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schlägt</span><br>ist zu <span class="de_verb">{{c1::schlagen}}</span>
 VERB: schneiden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schneide::schneiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schneidest::schneiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie schneidet::schneiden}}</span> über die Vergangenheit.
@@ -1660,11 +1660,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schnitten::schneiden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schneid::schneiden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schneidet::schneiden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schneidend::schneiden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschnitten::schneiden}}</span>
+Beim <span class="de_verb">{{c1::schneidend::schneiden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschnitten::schneiden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schneidet</span><br>ist zu <span class="de_verb">{{c1::schneiden}}</span>
 VERB: schreiben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schreibe::schreiben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schreibst::schreiben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie schreibt::schreiben}}</span> über die Vergangenheit.
@@ -1685,11 +1685,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schrieben::schreiben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schreib::schreiben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schreibt::schreiben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schreibend::schreiben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschrieben::schreiben}}</span>
+Beim <span class="de_verb">{{c1::schreibend::schreiben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschrieben::schreiben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schreibt</span><br>ist zu <span class="de_verb">{{c1::schreiben}}</span>
 VERB: schreien
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schreie::schreien}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schreist::schreien}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie schreit::schreien}}</span> über die Vergangenheit.
@@ -1704,11 +1704,11 @@ NOTE:
 ← Zu dieser Zeit, oft, ←<br><span class="de_verb">{{c1::sie schrien::schreien}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schrei::schreien}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schreit::schreien}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schreiend::schreien}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschrien::schreien}}</span>
+Beim <span class="de_verb">{{c1::schreiend::schreien}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschrien::schreien}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schreit</span><br>ist zu <span class="de_verb">{{c1::schreien}}</span>
 VERB: schweigen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schweige::schweigen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schweigst::schweigen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie schweigt::schweigen}}</span> über die Vergangenheit.
@@ -1729,8 +1729,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schwiegen::schweigen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schweig::schweigen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schweigt::schweigen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schweigend::schweigen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschwiegen::schweigen}}</span>
+Beim <span class="de_verb">{{c1::schweigend::schweigen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschwiegen::schweigen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schweigt</span><br>ist zu <span class="de_verb">{{c1::schweigen}}</span>
 VERB: schwimmen
 NOTE: When the verb signifies movement, the auxiliary verb is “sein”, e.g. “er ist zur Insel geschwommen” (he swam to the island). When it means just the activity, both “haben” and “sein” are possible, “haben” is preferred in the North of Germany, “sein” in the South.
@@ -1754,11 +1754,11 @@ NOTE: When the verb signifies movement, the auxiliary verb is “sein”, e.g. �
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schwömmen::schwimmen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schwimm::schwimmen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schwimmt::schwimmen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schwimmend::schwimmen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschwommen::schwimmen}}</span>
+Beim <span class="de_verb">{{c1::schwimmend::schwimmen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschwommen::schwimmen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schwimmt</span><br>ist zu <span class="de_verb">{{c1::schwimmen}}</span>
 VERB: schwingen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schwinge::schwingen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schwingst::schwingen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er schwingt::schwingen}}</span> über die Vergangenheit.
@@ -1779,11 +1779,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schwängen::schwingen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schwing::schwingen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schwingt::schwingen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schwingend::schwingen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschwungen::schwingen}}</span>
+Beim <span class="de_verb">{{c1::schwingend::schwingen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschwungen::schwingen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schwingt</span><br>ist zu <span class="de_verb">{{c1::schwingen}}</span>
 VERB: schwören
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich schwöre::schwören}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du schwörst::schwören}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es schwört::schwören}}</span> über die Vergangenheit.
@@ -1804,11 +1804,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie schwüren::schwören}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::schwör::schwören}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::schwört::schwören}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::schwörend::schwören}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geschworen::schwören}}</span>
+Beim <span class="de_verb">{{c1::schwörend::schwören}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geschworen::schwören}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er schwört</span><br>ist zu <span class="de_verb">{{c1::schwören}}</span>
 VERB: sehen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich sehe::sehen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du siehst::sehen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es sieht::sehen}}</span> über die Vergangenheit.
@@ -1829,8 +1829,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie sähen::sehen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::sieh::sehen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::seht::sehen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::sehend::sehen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gesehen::sehen}}</span>
+Beim <span class="de_verb">{{c1::sehend::sehen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gesehen::sehen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er sieht</span><br>ist zu <span class="de_verb">{{c1::sehen}}</span>
 VERB: senden
 NOTE: This conjugation is used when “senden” means “to send something physically”, such as a package or a letter. It can also mean “to broadcast or send electronically”, but in this sense it is regular, e.g. “ich habe ihm eine E-Mail gesendet” (I have sent him an e-mail).
@@ -1854,11 +1854,11 @@ NOTE: This conjugation is used when “senden” means “to send something phys
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie sendeten::senden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::send::senden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::sendet::senden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::sendend::senden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gesandt::senden}}</span>
+Beim <span class="de_verb">{{c1::sendend::senden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gesandt::senden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er sendet</span><br>ist zu <span class="de_verb">{{c1::senden}}</span>
 VERB: singen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich singe::singen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du singst::singen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er singt::singen}}</span> über die Vergangenheit.
@@ -1879,11 +1879,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie sängen::singen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::sing::singen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::singt::singen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::singend::singen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gesungen::singen}}</span>
+Beim <span class="de_verb">{{c1::singend::singen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gesungen::singen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er singt</span><br>ist zu <span class="de_verb">{{c1::singen}}</span>
 VERB: sinken
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich sinke::sinken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du sinkst::sinken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es sinkt::sinken}}</span> über die Vergangenheit.
@@ -1904,8 +1904,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie sänken::sinken}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::sink::sinken}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::sinkt::sinken}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::sinkend::sinken}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gesunken::sinken}}</span>
+Beim <span class="de_verb">{{c1::sinkend::sinken}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gesunken::sinken}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er sinkt</span><br>ist zu <span class="de_verb">{{c1::sinken}}</span>
 VERB: sitzen
 NOTE: The auxiliary verb “sein” is used in the South of Germany, “haben” is used in the North of Germany.
@@ -1929,8 +1929,8 @@ NOTE: The auxiliary verb “sein” is used in the South of Germany, “haben”
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie säßen::sitzen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::sitz::sitzen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::sitzt::sitzen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::sitzend::sitzen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gesessen::sitzen}}</span>
+Beim <span class="de_verb">{{c1::sitzend::sitzen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gesessen::sitzen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er sitzt</span><br>ist zu <span class="de_verb">{{c1::sitzen}}</span>
 VERB: sollen
 NOTE: The first person singular is “ich soll”. For subjunctive, only “sollte” is possible (“würde sollen” does not exist). In the past, “sollte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen sollen”.
@@ -1952,11 +1952,11 @@ NOTE: The first person singular is “ich soll”. For subjunctive, only “soll
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::wir sollten::sollen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::ihr solltet::sollen}}</span> gestern über die Vergangenheit
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie sollten::sollen}}</span> gestern über die Vergangenheit
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::sollend::sollen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::sollen::sollen}}</span>
+Beim <span class="de_verb">{{c1::sollend::sollen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::sollen::sollen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er soll</span><br>ist zu <span class="de_verb">{{c1::sollen}}</span>
 VERB: sprechen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich spreche::sprechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du sprichst::sprechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie spricht::sprechen}}</span> über die Vergangenheit.
@@ -1977,11 +1977,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie sprächen::sprechen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::sprich::sprechen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::sprecht::sprechen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::sprechend::sprechen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gesprochen::sprechen}}</span>
+Beim <span class="de_verb">{{c1::sprechend::sprechen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gesprochen::sprechen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er spricht</span><br>ist zu <span class="de_verb">{{c1::sprechen}}</span>
 VERB: springen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich springe::springen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du springst::springen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie springt::springen}}</span> über die Vergangenheit.
@@ -2002,11 +2002,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie sprängen::springen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::spring::springen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::springt::springen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::springend::springen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gesprungen::springen}}</span>
+Beim <span class="de_verb">{{c1::springend::springen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gesprungen::springen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er springt</span><br>ist zu <span class="de_verb">{{c1::springen}}</span>
 VERB: stechen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich steche::stechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du stichst::stechen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie sticht::stechen}}</span> über die Vergangenheit.
@@ -2027,8 +2027,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie stächen::stechen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::stich::stechen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::stecht::stechen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::stechend::stechen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestochen::stechen}}</span>
+Beim <span class="de_verb">{{c1::stechend::stechen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestochen::stechen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er sticht</span><br>ist zu <span class="de_verb">{{c1::stechen}}</span>
 VERB: stehen
 NOTE: The auxiliary verb “sein” is used in the South of Germany, “haben” is used in the North of Germany.
@@ -2052,11 +2052,11 @@ NOTE: The auxiliary verb “sein” is used in the South of Germany, “haben”
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie stünden::stehen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::steh::stehen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::steht::stehen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::stehend::stehen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestanden::stehen}}</span>
+Beim <span class="de_verb">{{c1::stehend::stehen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestanden::stehen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er steht</span><br>ist zu <span class="de_verb">{{c1::stehen}}</span>
 VERB: stehlen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich stehle::stehlen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du stiehlst::stehlen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie stiehlt::stehlen}}</span> über die Vergangenheit.
@@ -2077,11 +2077,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie stöhlen::stehlen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::stiehl::stehlen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::stehlt::stehlen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::stehlend::stehlen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestohlen::stehlen}}</span>
+Beim <span class="de_verb">{{c1::stehlend::stehlen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestohlen::stehlen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er stiehlt</span><br>ist zu <span class="de_verb">{{c1::stehlen}}</span>
 VERB: steigen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich steige::steigen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du steigst::steigen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es steigt::steigen}}</span> über die Vergangenheit.
@@ -2102,11 +2102,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie stiegen::steigen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::steig::steigen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::steigt::steigen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::steigend::steigen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestiegen::steigen}}</span>
+Beim <span class="de_verb">{{c1::steigend::steigen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestiegen::steigen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er steigt</span><br>ist zu <span class="de_verb">{{c1::steigen}}</span>
 VERB: sterben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich sterbe::sterben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du stirbst::sterben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie stirbt::sterben}}</span> über die Vergangenheit.
@@ -2127,11 +2127,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie stürben::sterben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::stirb::sterben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::sterbt::sterben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::sterbend::sterben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestorben::sterben}}</span>
+Beim <span class="de_verb">{{c1::sterbend::sterben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestorben::sterben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er stirbt</span><br>ist zu <span class="de_verb">{{c1::sterben}}</span>
 VERB: stinken
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich stinke::stinken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du stinkst::stinken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es stinkt::stinken}}</span> über die Vergangenheit.
@@ -2152,8 +2152,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie stänken::stinken}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::stink::stinken}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::stinkt::stinken}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::stinkend::stinken}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestunken::stinken}}</span>
+Beim <span class="de_verb">{{c1::stinkend::stinken}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestunken::stinken}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er stinkt</span><br>ist zu <span class="de_verb">{{c1::stinken}}</span>
 VERB: streichen
 NOTE: In the sense of “stroking” (without a direct object) the auxiliary verb is “sein”, e.g. “er ist ihr übers Haar gestrichen”. Otherwise, it is usually “haben”.
@@ -2177,11 +2177,11 @@ NOTE: In the sense of “stroking” (without a direct object) the auxiliary ver
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie strichen::streichen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::streich::streichen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::streicht::streichen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::streichend::streichen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestrichen::streichen}}</span>
+Beim <span class="de_verb">{{c1::streichend::streichen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestrichen::streichen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er streicht</span><br>ist zu <span class="de_verb">{{c1::streichen}}</span>
 VERB: streiten
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich streite::streiten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du streitest::streiten}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es streitet::streiten}}</span> über die Vergangenheit.
@@ -2202,11 +2202,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie stritten::streiten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::streit::streiten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::streitet::streiten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::streitend::streiten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gestritten::streiten}}</span>
+Beim <span class="de_verb">{{c1::streitend::streiten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gestritten::streiten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er streitet</span><br>ist zu <span class="de_verb">{{c1::streiten}}</span>
 VERB: tragen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich trage::tragen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du trägst::tragen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es trägt::tragen}}</span> über die Vergangenheit.
@@ -2227,11 +2227,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie trügen::tragen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::trag::tragen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::tragt::tragen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::tragend::tragen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::getragen::tragen}}</span>
+Beim <span class="de_verb">{{c1::tragend::tragen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::getragen::tragen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er trägt</span><br>ist zu <span class="de_verb">{{c1::tragen}}</span>
 VERB: treffen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich treffe::treffen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du triffst::treffen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es trifft::treffen}}</span> über die Vergangenheit.
@@ -2252,8 +2252,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie träfen::treffen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::triff::treffen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::trefft::treffen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::treffend::treffen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::getroffen::treffen}}</span>
+Beim <span class="de_verb">{{c1::treffend::treffen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::getroffen::treffen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er trifft</span><br>ist zu <span class="de_verb">{{c1::treffen}}</span>
 VERB: treiben
 NOTE: The auxiliary verb is “haben” in all meanings apart from “being moved forward”, e.g. “das Eis ist auf dem Spiegel des Flusses getrieben” (the ice moved on the surface of the river).
@@ -2277,8 +2277,8 @@ NOTE: The auxiliary verb is “haben” in all meanings apart from “being move
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie trieben::treiben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::treib::treiben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::treibt::treiben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::treibend::treiben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::getrieben::treiben}}</span>
+Beim <span class="de_verb">{{c1::treibend::treiben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::getrieben::treiben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er treibt</span><br>ist zu <span class="de_verb">{{c1::treiben}}</span>
 VERB: treten
 NOTE: In the meaning “to step somewhere”, the auxiliary verb is “haben”, e.g. “beim Tanzen hat er seiner Partnerin auf den Fuß getreten” (he stepped on his partner’s foot while dancing”. In the meaning “to make a few steps”, the auxiliary verb is “sein”, e.g. “er ist zu uns getreten” (he approached us).
@@ -2302,11 +2302,11 @@ NOTE: In the meaning “to step somewhere”, the auxiliary verb is “haben”,
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie träten::treten}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::tritt::treten}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::tretet::treten}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::tretend::treten}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::getreten::treten}}</span>
+Beim <span class="de_verb">{{c1::tretend::treten}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::getreten::treten}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er tritt</span><br>ist zu <span class="de_verb">{{c1::treten}}</span>
 VERB: trinken
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich trinke::trinken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du trinkst::trinken}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie trinkt::trinken}}</span> über die Vergangenheit.
@@ -2327,8 +2327,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie tränken::trinken}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::trink::trinken}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::trinkt::trinken}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::trinkend::trinken}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::getrunken::trinken}}</span>
+Beim <span class="de_verb">{{c1::trinkend::trinken}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::getrunken::trinken}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er trinkt</span><br>ist zu <span class="de_verb">{{c1::trinken}}</span>
 VERB: trügen
 NOTE: The subjunctive for “betrügen” (a more usual word for “to deceive”) is “betrüge”.
@@ -2352,11 +2352,11 @@ NOTE: The subjunctive for “betrügen” (a more usual word for “to deceive�
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie trögen::trügen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::trüg::trügen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::trügt::trügen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::trügend::trügen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::getrogen::trügen}}</span>
+Beim <span class="de_verb">{{c1::trügend::trügen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::getrogen::trügen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er trügt</span><br>ist zu <span class="de_verb">{{c1::trügen}}</span>
 VERB: verbergen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich verberge::verbergen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du verbirgst::verbergen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie verbirgt::verbergen}}</span> über die Vergangenheit.
@@ -2377,11 +2377,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie verbärgen::verbergen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::verbirg::verbergen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::verbergt::verbergen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::verbergend::verbergen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::verborgen::verbergen}}</span>
+Beim <span class="de_verb">{{c1::verbergend::verbergen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::verborgen::verbergen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er verbirgt</span><br>ist zu <span class="de_verb">{{c1::verbergen}}</span>
 VERB: verderben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich verderbe::verderben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du verdirbst::verderben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::es verdirbt::verderben}}</span> über die Vergangenheit.
@@ -2402,11 +2402,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie verdürben::verderben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::verdirb::verderben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::verderbt::verderben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::verderbend::verderben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::verdorben::verderben}}</span>
+Beim <span class="de_verb">{{c1::verderbend::verderben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::verdorben::verderben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er verdirbt</span><br>ist zu <span class="de_verb">{{c1::verderben}}</span>
 VERB: verlieren
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich verliere::verlieren}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du verlierst::verlieren}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er verliert::verlieren}}</span> über die Vergangenheit.
@@ -2427,11 +2427,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie verlören::verlieren}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::verlier::verlieren}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::verliert::verlieren}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::verlierend::verlieren}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::verloren::verlieren}}</span>
+Beim <span class="de_verb">{{c1::verlierend::verlieren}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::verloren::verlieren}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er verliert</span><br>ist zu <span class="de_verb">{{c1::verlieren}}</span>
 VERB: vermeiden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich vermeide::vermeiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du vermeidest::vermeiden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie vermeidet::vermeiden}}</span> über die Vergangenheit.
@@ -2452,11 +2452,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie vermieden::vermeiden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::vermeid::vermeiden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::vermeidet::vermeiden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::vermeidend::vermeiden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::vermieden::vermeiden}}</span>
+Beim <span class="de_verb">{{c1::vermeidend::vermeiden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::vermieden::vermeiden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er vermeidet</span><br>ist zu <span class="de_verb">{{c1::vermeiden}}</span>
 VERB: verschwinden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich verschwinde::verschwinden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du verschwindest::verschwinden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::sie verschwindet::verschwinden}}</span> über die Vergangenheit.
@@ -2477,11 +2477,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie verschwänden::verschwinden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::verschwind::verschwinden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::verschwindet::verschwinden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::verschwindend::verschwinden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::verschwunden::verschwinden}}</span>
+Beim <span class="de_verb">{{c1::verschwindend::verschwinden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::verschwunden::verschwinden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er verschwindet</span><br>ist zu <span class="de_verb">{{c1::verschwinden}}</span>
 VERB: verzeihen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich verzeihe::verzeihen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du verzeihst::verzeihen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er verzeiht::verzeihen}}</span> über die Vergangenheit.
@@ -2502,11 +2502,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie verziehen::verzeihen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::verzeih::verzeihen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::verzeiht::verzeihen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::verzeihend::verzeihen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::verziehen::verzeihen}}</span>
+Beim <span class="de_verb">{{c1::verzeihend::verzeihen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::verziehen::verzeihen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er verzeiht</span><br>ist zu <span class="de_verb">{{c1::verzeihen}}</span>
 VERB: waschen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich wasche::waschen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du wäschst::waschen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er wäscht::waschen}}</span> über die Vergangenheit.
@@ -2527,11 +2527,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie wüschen::waschen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::wasch::waschen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::wascht::waschen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::waschend::waschen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gewaschen::waschen}}</span>
+Beim <span class="de_verb">{{c1::waschend::waschen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gewaschen::waschen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er wäscht</span><br>ist zu <span class="de_verb">{{c1::waschen}}</span>
 VERB: wenden
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich wende::wenden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du wendest::wenden}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er wendet::wenden}}</span> über die Vergangenheit.
@@ -2552,11 +2552,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie wendeten::wenden}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::wend::wenden}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::wendet::wenden}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::wendend::wenden}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gewendet::wenden}}</span>
+Beim <span class="de_verb">{{c1::wendend::wenden}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gewendet::wenden}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er wendet</span><br>ist zu <span class="de_verb">{{c1::wenden}}</span>
 VERB: werben
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich werbe::werben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du wirbst::werben}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er wirbt::werben}}</span> über die Vergangenheit.
@@ -2577,11 +2577,11 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie würben::werben}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::wirb::werben}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::werbt::werben}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::werbend::werben}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geworben::werben}}</span>
+Beim <span class="de_verb">{{c1::werbend::werben}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geworben::werben}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er wirbt</span><br>ist zu <span class="de_verb">{{c1::werben}}</span>
 VERB: werfen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich werfe::werfen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du wirfst::werfen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er wirft::werfen}}</span> über die Vergangenheit.
@@ -2602,8 +2602,8 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie würfen::werfen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::wirf::werfen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::werft::werfen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::werfend::werfen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::geworfen::werfen}}</span>
+Beim <span class="de_verb">{{c1::werfend::werfen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::geworfen::werfen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er wirft</span><br>ist zu <span class="de_verb">{{c1::werfen}}</span>
 VERB: wissen
 NOTE: For subjunctive, both “wüsste” and “würde wissen” are common.
@@ -2627,8 +2627,8 @@ NOTE: For subjunctive, both “wüsste” and “würde wissen” are common.
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie wüssten::wissen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::wisse::wissen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::wisst::wissen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::wissend::wissen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gewusst::wissen}}</span>
+Beim <span class="de_verb">{{c1::wissend::wissen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gewusst::wissen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er weiß</span><br>ist zu <span class="de_verb">{{c1::wissen}}</span>
 VERB: ziehen
 NOTE: The auxiliary verb “sein” is used in the sense “to wander, to move”, e.g. “er ist nach Berlin gezogen” (he moved to Berlin), and similarly for related “umziehen” (to move (the place where you live) completely).
@@ -2652,11 +2652,11 @@ NOTE: The auxiliary verb “sein” is used in the sense “to wander, to move�
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie zögen::ziehen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::zieh::ziehen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::zieht::ziehen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::ziehend::ziehen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gezogen::ziehen}}</span>
+Beim <span class="de_verb">{{c1::ziehend::ziehen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gezogen::ziehen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er zieht</span><br>ist zu <span class="de_verb">{{c1::ziehen}}</span>
 VERB: zwingen
-NOTE: 
+NOTE:
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::ich zwinge::zwingen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::du zwingst::zwingen}}</span> über die Vergangenheit.
 ⊙ Jetzt gerade, ⊙<br><span class="de_verb">{{c1::er zwingt::zwingen}}</span> über die Vergangenheit.
@@ -2677,6 +2677,6 @@ NOTE:
 ↫ Es war überraschend, dass ↫<br><span class="de_verb">{{c1::sie zwängen::zwingen}}</span> gestern über die Vergangenheit
 Bitte, Mann,<br><span class="de_verb">{{c1::zwing::zwingen}}</span> jetzt!
 Bitte, Mann,<br><span class="de_verb">{{c1::zwingt::zwingen}}</span> jetzt!
-Ich sah den Mann, während er über die Vergangenheit <span class="de_verb">{{c1::zwingend::zwingen}}</span> ging
-Das Objekt wurde <span class="de_verb">{{c1::gezwungen::zwingen}}</span>
+Beim <span class="de_verb">{{c1::zwingend::zwingen}}</span> denkt er an die Vergangenheit
+Das Objekt is <span class="de_verb">{{c1::gezwungen::zwingen}}</span> worden
 Das Verb in<br><span class="cloze_hilite">er zwingt</span><br>ist zu <span class="de_verb">{{c1::zwingen}}</span>
