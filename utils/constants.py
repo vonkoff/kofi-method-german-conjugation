@@ -4,8 +4,8 @@ templates = {
     "Ind. Präteritum": "← Zu dieser Zeit, oft, ←<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
     "Sub. Präteritum": "↫ Es war überraschend, dass ↫<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
     "Imperativs": "Bitte, Mann,<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> jetzt!",
-    "Partizip I": "Ich sah den Mann, während er über die Vergangenheit <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> ging",
-    "Partizip II": "Das Objekt wurde <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span>",
+    "Partizip I": "Beim <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> denkt er an die Vergangenheit",
+    "Partizip II": "Das Objekt is <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> worden",
     "Infinitiv": "Das Verb in<br><span class=\"cloze_hilite\">er {1}</span><br>ist zu <span class=\"de_verb\">{{{{c1::{0}}}}}</span>"
 }
 

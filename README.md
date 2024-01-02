@@ -37,8 +37,8 @@ While other tenses and forms exist in German, they can often be formed using the
 - Konjunktiv I and II (Subjunctive I and II): Based on Präsens or Präteritum forms
   Konjunktiv I: "Du sprechest" (You speak, indirect speech)
 
-Comprehensive Learning through Simplification
-This method simplifies the learning process, and applies the atomic method of learning through Anki that should stick :)
+
+You should still give a glance at the other forms and can do so through [Duden.de](https://www.duden.de/konjugation/sprechen).
 
 References for irregular verbs:
 https://jakubmarian.com/list-of-irregular-strong-german-verbs/
