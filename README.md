@@ -1,4 +1,4 @@
-# Kofi Method German with Anki - Beta (Subject to change and refine)
+# Kofi Method German with Anki - Beta (Subject to change)
 
 <img src="logo/kofi-logo.png" width="200" height="200">
 
