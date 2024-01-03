@@ -2,7 +2,7 @@ import genanki
 import os
 from utils.speech import synthesize_speech, synthesize_template_speech, conjugated_audio
 from utils.constants import kofi_css, templates, ge_deck_id, ge_deck_name
-from utils.helpers import parse_verb_file, get_tags, make_note, order_notes
+from utils.helpers import parse_verb_file, get_tags, make_note, order_notes, verb_summary
 
 
                         # # PRASENS, Konjunktiv II: Präteritum,
@@ -26,10 +26,10 @@ def create_anki_deck(verb_data):
         model_id=391834738,
         name="Kofi German Conjugation Model",
         fields=[{"name": "Prompt"}, {"name": "UUID"}, {"name": "Notes"}, {
-            "name": "Sound"}, {"name": "TemplateAudio"}],
+            "name": "Sound"}],
         templates=[{
             "name": "Cloze",
-            "qfmt": "{{cloze:Prompt}}<br>Template:{{TemplateAudio}}",
+            "qfmt": "{{cloze:Prompt}}",
             "afmt": """{{cloze:Prompt}}<br><br>
             Pronuncation:{{Sound}}<br>
             <div class="back">
@@ -50,9 +50,13 @@ def create_anki_deck(verb_data):
         model_type=genanki.Model.CLOZE
     )
 
-
-    audio_files = synthesize_template_speech()
-    print("Audio files to be included in the package:", audio_files)
+    audio_files = []
+    """
+    Need to find a way to included in Anki without autoplay
+    Or not at all
+    """
+    # audio_files = synthesize_template_speech()
+    # print("Audio files to be included in the package:", audio_files)
 
     with open("results.txt", 'w+') as file:
 
@@ -126,6 +130,7 @@ def create_anki_deck(verb_data):
 
     ordered_notes = order_notes(all_notes)
     my_deck = genanki.Deck(deck_id=ge_deck_id, name=ge_deck_name)
+    verb_summary(ordered_notes)
 
     for note, _ in ordered_notes:
         my_deck.add_note(note)

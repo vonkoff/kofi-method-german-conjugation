@@ -33,6 +33,20 @@ def parse_verb_file(filename):
     return verb_data
 
 
+def verb_summary(ordered_notes):
+    verb_count = {}
+    for note_tuple in ordered_notes:
+        note = note_tuple[0]
+        verb_tag = next((tag for tag in note.tags if tag.startswith('verb:')), None)
+        if verb_tag:
+            verb = verb_tag.split(':')[1]
+            verb_count[verb] = verb_count.get(verb, 0) + 1
+
+    with open("summary_ordered.txt", "w", encoding="utf-8") as file:
+        for i, (verb, count) in enumerate(verb_count.items(), start=1):
+            file.write(f"{i}. {verb.capitalize()}: {count} cards\n")
+
+
 def get_tags(tense, verb, subject=None):
 
     if tense == "Ind. Präteritum":
@@ -53,11 +67,11 @@ def get_tags(tense, verb, subject=None):
 
     if subject is not None:
         if subject == "er":
-            tags.append("person:er/sie/es")
+            tags.append("subject:er/sie/es")
         elif subject == "Sie":
-            tags.append("person:sie/Sie")
+            tags.append("subject:sie/Sie")
         else:
-            tags.append(f"person:{subject}")
+            tags.append(f"subject:{subject}")
 
     if verb in modal_verbs:
         tags.append("modal_verb")
@@ -117,16 +131,20 @@ def make_note(model, sentence, note, tags, form_audio_filename):
     # Extract tense name from tags
     tense_name = next((tag.replace("tense:", "") for tag in tags if "tense:" in tag), None)
     # Matching with audio file name
-    template_audio = f"[sound:{tense_name}.mp3]" if tense_name else ""
+    # template_audio = f"[sound:{tense_name}.mp3]" if tense_name else ""
     form_audio_filename = os.path.basename(form_audio_filename)
     form_audio = f"[sound:{form_audio_filename}]"
 
-    print(f"Creating note. Sentence: {sentence}, Form Audio: {form_audio}, Template Audio: {template_audio}")
+    print(f"Creating note. Sentence: {sentence}, Form Audio: {form_audio}")
 
 
 
     my_note = genanki.Note(model=model, fields=[
-        sentence, str(uuid.uuid4()), note, form_audio,template_audio
+        sentence,
+        str(uuid.uuid4()),
+        note,
+        form_audio,
+        # template_audio
     ], tags=tags)
 
     # Metadata to order cars later
