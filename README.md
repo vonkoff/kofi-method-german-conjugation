@@ -1,4 +1,4 @@
-# Kofi Method German with Anki
+# Kofi Method German with Anki - Beta (Subject to change and refine)
 
 <img src="logo/kofi-logo.png" width="200" height="200">
 
@@ -6,10 +6,14 @@
 
 Inspired by [Lisardo's Kofi Method](https://www.asiteaboutnothing.net/w_ultimate_italian_conjugation.html#:~:text=What%20is%20the%20KOFI%20Method,to%20formally%20study%20the%20language)
 
+### Link to AnkiWeb
+[Anki Web](https://ankiweb.net/shared/info/778251741?cb=1704294165043)
+
 ## What's Included
 
 1. I would read Lisardo's explanation on how to pace your study [Link](https://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.html#how)
-2. I would go to "Filtering out Konjunktiv II Präteritum" to see about one modification I would recommend to filter in this deck
+2. I would go to "Filtering out Konjunktiv II Präteritum" to see about one modification I would recommend to filter in this deck.
+*If you filter out the deck then the amount of cards listed won't match the verb list below. Check manually*
 
 Here is the list of verbs. The numbers tell you how many cards to add when you're ready for a new verb.
 https://jakubmarian.com/list-of-irregular-strong-german-verbs/
@@ -203,7 +207,7 @@ While other tenses and forms exist in German, they can often be formed using the
 You should still give a glance at the other forms and can do so through [Duden.de](https://www.duden.de/konjugation/sprechen).
 
 
-## Steps to setup
+## Steps to setup (WORK IN PROGRESS)
 
 Steps:
 
