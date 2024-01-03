@@ -130,36 +130,36 @@ https://jakubmarian.com/list-of-irregular-strong-german-verbs/
 
 List of Tags:
 1. By Subject
-tag:subject:ich
-tag:subject:du
-tag:subject:er/sie/es
-tag:subject:wir
-tag:subject:ihr
-tag:subject:sie/Sie
-tag:subject:ihr/Sie
+- tag:subject:ich
+- tag:subject:du
+- tag:subject:er/sie/es
+- tag:subject:wir
+- tag:subject:ihr
+- tag:subject:sie/Sie
+- tag:subject:ihr/Sie
 
 2. By Tense
-tag:tense:Infinitiv
-tag:tense:Partizip_I
-tag:tense:Partizip_II
-tag:tense:Imperativs
-tag:tense:Präsens
-tag:tense:Indikativ_Präteritum
-tag:tense:Konjunktiv_II_Präteritum
+- tag:tense:Infinitiv
+- tag:tense:Partizip_I
+- tag:tense:Partizip_II
+- tag:tense:Imperativs
+- tag:tense:Präsens
+- tag:tense:Indikativ_Präteritum
+- tag:tense:Konjunktiv_II_Präteritum
 
 3. By Verb Ending
-tag:ends_in_en
-tag:ends_in_ern
-tag:ends_in_eln
+- tag:ends_in_en
+- tag:ends_in_ern
+- tag:ends_in_eln
 
 4. By German Verb Name
-tag:verb:sterben
-tags:verb:kriechen
-tags:verb:messen
+- tag:verb:sterben
+- tags:verb:kriechen
+- tags:verb:messen
 … etc. from verb list
 
 7. Misc Tags
-tag:modal_verb
+- tag:modal_verb
 
 ## Conjugation Forms Included
 
