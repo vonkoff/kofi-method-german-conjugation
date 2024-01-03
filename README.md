@@ -9,14 +9,37 @@ Inspired by [Lisardo's Kofi Method](https://www.asiteaboutnothing.net/w_ultimate
 ## Conjugation Forms Included
 
 - Präsens (Present Tense): "Du sprichst" (You speak)
-- Präteritum (Simple Past Tense): "Du sprachst" (You spoke)
+- Indikativ Präteritum (Simple Past Tense): "Du sprachst" (You spoke)
 - Konjunktiv II Präteritum (Subjunctive Past Tense): "Du sprächest" (You spoke)
 - Imperativ (Imperative Mood): "Sprich!" (Speak!)
 - Partizip I (Present Participle): "sprechend" (speaking)
 - Partizip II (Past Participle): "gesprochen" (spoken)
 - Infinitiv mit zu (Infinitive with "zu"): "zu sprechen" (to speak)
 
-These forms are the building blocks of German verb conjugation. Mastery of these elements allows learners to construct and understand a variety of complex tenses with minimal memorization of additional forms.
+These forms are the building blocks of German verb conjugation.
+
+### Filtering out Konjunktiv II Präteritum
+
+The Konjunktiv II Präteritum is not commonly used in everyday German. But, it is still included in this deck for those who would like to use it.
+I on the other hand will choose to remove it, BUT, not for modal verbs where it is used in everyday German.
+
+If you would like to do the same follow these instructions:
+1. From the main Anki screen click on top button "Browse"
+2. You should see a search field with placeholder text saying "Search cards/notes..."
+3. Type in the text within the parentheses -> ("deck:KOFI German" tag:tense:Konjunktiv_II_Präteritum -tag:modal_verb)
+4. Click on the first field and then scroll all the way to bottom. Shift + Left Click on the last field.
+5. Right click and the menu should show "Cards" at the bottom. Hover over that and click  a
+
+1. Go to "Tools" menu and select "Create Filtered Deck"
+
+2.
+1. In the "Search" field of the Create Filtered Deck dialog, you will enter a search string using Anki's search syntax to include and exclude tags.
+2. To include cards that have a specific tag, but exclude cards with another tag, use a search query like this: (tag:include-tag) -(tag:exclude-tag -tag:include-tag).
+3. Replace include-tag with " " and exclude-tag with " "
+Your search query would be: (tag:science) -(tag:difficult -tag:science).
+
+
+Mastery of these elements allows learners to construct and understand a variety of complex tenses with minimal memorization of additional forms.
 
 ## Why Not the Rest of the Forms?
 

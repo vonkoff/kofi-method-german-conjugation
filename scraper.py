@@ -28,8 +28,12 @@ def appendCon(arr, table, skip=False, ppronoun=False):
             selected_word = words[-1] if ppronoun else words[0]
 
             if ppronoun:
-                third_pro = random.choice(
-                    ['er', 'sie', 'es']) if pronouns[i - 1] == "er/sie/es" else pronouns[i - 1]
+                if pronouns[i - 1] == "er/sie/es":
+                    third_pro = 'er'
+                elif pronouns[i - 1] == "sie":
+                    third_pro = 'Sie'
+                else:
+                    third_pro = pronouns[i - 1]
                 arr.append(third_pro + " " + selected_word)
             else:
                 arr.append(litext if "zu" in words else selected_word)

@@ -1,14 +1,26 @@
+ge_deck_id = 391834738
+ge_deck_name = 'KOFI German'
+
+tense_order = ["tag:Infinitiv", "tag:Partizip_I", "tag:Partizip_II",
+               "tag:Imperativs", "tag:Präsens", "tag:Indikativ_Präteritum",
+               "tag:Konjunktiv_II_Präteritum"]
+person_order = ["tag:ich", "tag:du", "tag:er/sie/es",
+                "tag:wir", "tag:ihr", "tag:sie/Sie", "tag:ihr/Sie"]
+
+
+modal_verbs = ["können", "müssen", "wollen", "sollen", "dürfen", "mögen"]
 
 templates = {
-    "Präsens": "⊙ Jetzt gerade, ⊙<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> über die Vergangenheit.",
-    "Ind. Präteritum": "← Zu dieser Zeit, oft, ←<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
-    "Sub. Präteritum": "↫ Es war überraschend, dass ↫<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
-    "Imperativs": "Bitte, Mann,<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> jetzt!",
+    "Präsens": "⊙ Jetzt gerade, ⊙<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> über die Vergangenheit.",
+    "Ind. Präteritum": "← Zu dieser Zeit, oft, ←<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
+    "Sub. Präteritum": "↫ Es war überraschend, dass ↫<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
+    "Imperativs": "Bitte, Mann, <br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> jetzt!",
     "Partizip I": "Beim <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> denkt er an die Vergangenheit",
     "Partizip II": "Das Objekt is <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> worden",
-    "Infinitiv": "Das Verb in<br><span class=\"cloze_hilite\">er {1}</span><br>ist zu <span class=\"de_verb\">{{{{c1::{0}}}}}</span>"
+    "Infinitiv": "Das Verb in<br><span class=\"cloze_hilite\"> er {1} </span><br>ist zu <span class=\"de_verb\">{{{{c1::{0}}}}}</span>"
 }
 
+# Borrowed from Lisardo https://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.html#tags
 kofi_css = """
 .night_mode {
 /*
@@ -128,6 +140,7 @@ orientation_examples, .orientation_examples {
   color: rgb(98, 151, 85);
   font-style: italic;
 }
+
 
 .note_feature { /* A feature of a verb that we want to highlight in the notes, e.g. Unique, Impersonal */
   color: rgb(136, 136, 198);

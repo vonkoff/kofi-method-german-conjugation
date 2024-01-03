@@ -1,864 +1,864 @@
 #### zu befehlen
-Note: 
-Präsens: ich befehle du befiehlst er befiehlt wir befehlen ihr befehlt sie befehlen
-Ind. Präteritum: ich befahl du befahlst sie befahl wir befahlen ihr befahlt sie befahlen
-Sub. Präteritum: ich beföhle du beföhlst er beföhle wir beföhlen ihr beföhlt sie beföhlen
+Note:
+Präsens: ich befehle du befiehlst er befiehlt wir befehlen ihr befehlt Sie befehlen
+Ind. Präteritum: ich befahl du befahlst er befahl wir befahlen ihr befahlt Sie befahlen
+Sub. Präteritum: ich beföhle du beföhlst er beföhle wir beföhlen ihr beföhlt Sie beföhlen
 Imperativs: befiehl! befehlt!
 Partizip I: befehlend
 Partizip II: befohlen
 #### zu beginnen
-Note: 
-Präsens: ich beginne du beginnst sie beginnt wir beginnen ihr beginnt sie beginnen
-Ind. Präteritum: ich begann du begannst es begann wir begannen ihr begannt sie begannen
-Sub. Präteritum: ich begönne du begönnst es begönne wir begönnen ihr begönnt sie begönnen
+Note:
+Präsens: ich beginne du beginnst er beginnt wir beginnen ihr beginnt Sie beginnen
+Ind. Präteritum: ich begann du begannst er begann wir begannen ihr begannt Sie begannen
+Sub. Präteritum: ich begönne du begönnst er begönne wir begönnen ihr begönnt Sie begönnen
 Imperativs: beginn, beginnt!
 Partizip I: beginnend
 Partizip II: begonnen
 #### zu bekommen
-Note: 
-Präsens: ich bekomme du bekommst er bekommt wir bekommen ihr bekommt sie bekommen
-Ind. Präteritum: ich bekam du bekamst es bekam wir bekamen ihr bekamt sie bekamen
-Sub. Präteritum: ich bekäme du bekämst sie bekäme wir bekämen ihr bekämt sie bekämen
+Note:
+Präsens: ich bekomme du bekommst er bekommt wir bekommen ihr bekommt Sie bekommen
+Ind. Präteritum: ich bekam du bekamst er bekam wir bekamen ihr bekamt Sie bekamen
+Sub. Präteritum: ich bekäme du bekämst er bekäme wir bekämen ihr bekämt Sie bekämen
 Imperativs: bekomm, bekommt!
 Partizip I: bekommend
 Partizip II: bekommen
 #### zu beweisen
-Note: 
-Präsens: ich beweise du beweist sie beweist wir beweisen ihr beweist sie beweisen
-Ind. Präteritum: ich bewies du bewiesest es bewies wir bewiesen ihr bewiest sie bewiesen
-Sub. Präteritum: ich bewiese du bewiesest er bewiese wir bewiesen ihr bewieset sie bewiesen
+Note:
+Präsens: ich beweise du beweist er beweist wir beweisen ihr beweist Sie beweisen
+Ind. Präteritum: ich bewies du bewiesest er bewies wir bewiesen ihr bewiest Sie bewiesen
+Sub. Präteritum: ich bewiese du bewiesest er bewiese wir bewiesen ihr bewieset Sie bewiesen
 Imperativs: beweis, beweist!
 Partizip I: beweisend
 Partizip II: bewiesen
 #### zu betrügen
-Note: 
-Präsens: ich betrüge du betrügst es betrügt wir betrügen ihr betrügt sie betrügen
-Ind. Präteritum: ich betrog du betrogst es betrog wir betrogen ihr betrogt sie betrogen
-Sub. Präteritum: ich betröge du betrögst es betröge wir betrögen ihr betrögt sie betrögen
+Note:
+Präsens: ich betrüge du betrügst er betrügt wir betrügen ihr betrügt Sie betrügen
+Ind. Präteritum: ich betrog du betrogst er betrog wir betrogen ihr betrogt Sie betrogen
+Sub. Präteritum: ich betröge du betrögst er betröge wir betrögen ihr betrögt Sie betrögen
 Imperativs: betrüg, betrügt!
 Partizip I: betrügend
 Partizip II: betrogen
 #### zu biegen
 Note: In the sense of bending, the auxiliary verb is “haben” (e.g. “ich habe das Rohr gebogen”). In the sense of turning, which is used mostly with the prefix “ab-”, the auxiliary verb is “sein”, e.g. “ich bin rechts abgebogen”.
-Präsens: ich biege du biegst es biegt wir biegen ihr biegt sie biegen
-Ind. Präteritum: ich bog du bogst er bog wir bogen ihr bogt sie bogen
-Sub. Präteritum: ich böge du bögest sie böge wir bögen ihr böget sie bögen
+Präsens: ich biege du biegst er biegt wir biegen ihr biegt Sie biegen
+Ind. Präteritum: ich bog du bogst er bog wir bogen ihr bogt Sie bogen
+Sub. Präteritum: ich böge du bögest er böge wir bögen ihr böget Sie bögen
 Imperativs: bieg, biegt!
 Partizip I: biegend
 Partizip II: gebogen
 #### zu bieten
-Note: 
-Präsens: ich biete du bietest es bietet wir bieten ihr bietet sie bieten
-Ind. Präteritum: ich bot du botst er bot wir boten ihr botet sie boten
-Sub. Präteritum: ich böte du bötest sie böte wir böten ihr bötet sie böten
+Note:
+Präsens: ich biete du bietest er bietet wir bieten ihr bietet Sie bieten
+Ind. Präteritum: ich bot du botst er bot wir boten ihr botet Sie boten
+Sub. Präteritum: ich böte du bötest er böte wir böten ihr bötet Sie böten
 Imperativs: biet, bietet!
 Partizip I: bietend
 Partizip II: geboten
 #### zu binden
-Note: 
-Präsens: ich binde du bindest er bindet wir binden ihr bindet sie binden
-Ind. Präteritum: ich band du bandst sie band wir banden ihr bandet sie banden
-Sub. Präteritum: ich bände du bändest sie bände wir bänden ihr bändet sie bänden
+Note:
+Präsens: ich binde du bindest er bindet wir binden ihr bindet Sie binden
+Ind. Präteritum: ich band du bandst er band wir banden ihr bandet Sie banden
+Sub. Präteritum: ich bände du bändest er bände wir bänden ihr bändet Sie bänden
 Imperativs: bind, bindet!
 Partizip I: bindend
 Partizip II: gebunden
 #### zu bitten
-Note: 
-Präsens: ich bitte du bittest sie bittet wir bitten ihr bittet sie bitten
-Ind. Präteritum: ich bat du batst es bat wir baten ihr batet sie baten
-Sub. Präteritum: ich bäte du bätest sie bäte wir bäten ihr bätet sie bäten
+Note:
+Präsens: ich bitte du bittest er bittet wir bitten ihr bittet Sie bitten
+Ind. Präteritum: ich bat du batst er bat wir baten ihr batet Sie baten
+Sub. Präteritum: ich bäte du bätest er bäte wir bäten ihr bätet Sie bäten
 Imperativs: bitt, bittet!
 Partizip I: bittend
 Partizip II: gebeten
 #### zu blasen
-Note: 
-Präsens: ich blase du bläst es bläst wir blasen ihr blast sie blasen
-Ind. Präteritum: ich blies du bliest es blies wir bliesen ihr bliest sie bliesen
-Sub. Präteritum: ich bliese du bliesest sie bliese wir bliesen ihr blieset sie bliesen
+Note:
+Präsens: ich blase du bläst er bläst wir blasen ihr blast Sie blasen
+Ind. Präteritum: ich blies du bliest er blies wir bliesen ihr bliest Sie bliesen
+Sub. Präteritum: ich bliese du bliesest er bliese wir bliesen ihr blieset Sie bliesen
 Imperativs: blas, blast!
 Partizip I: blasend
 Partizip II: geblasen
 #### zu bleiben
-Note: 
-Präsens: ich bleibe du bleibst er bleibt wir bleiben ihr bleibt sie bleiben
-Ind. Präteritum: ich blieb du bliebst er blieb wir blieben ihr bliebt sie blieben
-Sub. Präteritum: ich bliebe du bliebest er bliebe wir blieben ihr bliebet sie blieben
+Note:
+Präsens: ich bleibe du bleibst er bleibt wir bleiben ihr bleibt Sie bleiben
+Ind. Präteritum: ich blieb du bliebst er blieb wir blieben ihr bliebt Sie blieben
+Sub. Präteritum: ich bliebe du bliebest er bliebe wir blieben ihr bliebet Sie blieben
 Imperativs: bleib, bleibt!
 Partizip I: bleibend
 Partizip II: geblieben
 #### zu braten
-Note: 
-Präsens: ich brate du brätst es brät wir braten ihr bratet sie braten
-Ind. Präteritum: ich briet du brietst sie briet wir brieten ihr brietet sie brieten
-Sub. Präteritum: ich briete du brietest er briete wir brieten ihr brietet sie brieten
+Note:
+Präsens: ich brate du brätst er brät wir braten ihr bratet Sie braten
+Ind. Präteritum: ich briet du brietst er briet wir brieten ihr brietet Sie brieten
+Sub. Präteritum: ich briete du brietest er briete wir brieten ihr brietet Sie brieten
 Imperativs: brat, bratet!
 Partizip I: bratend
 Partizip II: gebraten
 #### zu brechen
 Note: If someone has broken something, “er hat es gebrochen”. If something has broken by itself, “es ist gebrochen”.
-Präsens: ich breche du brichst es bricht wir brechen ihr brecht sie brechen
-Ind. Präteritum: ich brach du brachst es brach wir brachen ihr bracht sie brachen
-Sub. Präteritum: ich bräche du brächst es bräche wir brächen ihr brächt sie brächen
+Präsens: ich breche du brichst er bricht wir brechen ihr brecht Sie brechen
+Ind. Präteritum: ich brach du brachst er brach wir brachen ihr bracht Sie brachen
+Sub. Präteritum: ich bräche du brächst er bräche wir brächen ihr brächt Sie brächen
 Imperativs: brich! brecht!
 Partizip I: brechend
 Partizip II: gebrochen
 #### zu brennen
-Note: 
-Präsens: ich brenne du brennst er brennt wir brennen ihr brennt sie brennen
-Ind. Präteritum: ich brannte du branntest er brannte wir brannten ihr branntet sie brannten
-Sub. Präteritum: ich brennte du brenntest er brennte wir brennten ihr brenntet sie brennten
+Note:
+Präsens: ich brenne du brennst er brennt wir brennen ihr brennt Sie brennen
+Ind. Präteritum: ich brannte du branntest er brannte wir brannten ihr branntet Sie brannten
+Sub. Präteritum: ich brennte du brenntest er brennte wir brennten ihr brenntet Sie brennten
 Imperativs: brenn, brennt!
 Partizip I: brennend
 Partizip II: gebrannt
 #### zu bringen
-Note: 
-Präsens: ich bringe du bringst es bringt wir bringen ihr bringt sie bringen
-Ind. Präteritum: ich brachte du brachtest er brachte wir brachten ihr brachtet sie brachten
-Sub. Präteritum: ich brächte du brächtest es brächte wir brächten ihr brächtet sie brächten
+Note:
+Präsens: ich bringe du bringst er bringt wir bringen ihr bringt Sie bringen
+Ind. Präteritum: ich brachte du brachtest er brachte wir brachten ihr brachtet Sie brachten
+Sub. Präteritum: ich brächte du brächtest er brächte wir brächten ihr brächtet Sie brächten
 Imperativs: bring, bringt!
 Partizip I: bringend
 Partizip II: gebracht
 #### zu denken
-Note: 
-Präsens: ich denke du denkst es denkt wir denken ihr denkt sie denken
-Ind. Präteritum: ich dachte du dachtest es dachte wir dachten ihr dachtet sie dachten
-Sub. Präteritum: ich dächte du dächtest sie dächte wir dächten ihr dächtet sie dächten
+Note:
+Präsens: ich denke du denkst er denkt wir denken ihr denkt Sie denken
+Ind. Präteritum: ich dachte du dachtest er dachte wir dachten ihr dachtet Sie dachten
+Sub. Präteritum: ich dächte du dächtest er dächte wir dächten ihr dächtet Sie dächten
 Imperativs: denk, denkt!
 Partizip I: denkend
 Partizip II: gedacht
 #### zu dürfen
 Note: The first person singular is “ichdarf”. For subjunctive, only “dürfte” is possible (“würde dürfen” does not exist). In the past, “durfte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen dürfen”.
-Präsens: ich darf du darfst er darf wir dürfen ihr dürft sie dürfen
-Ind. Präteritum: ich durfte du durftest er durfte wir durften ihr durftet sie durften
-Sub. Präteritum: ich dürfte du dürftest es dürfte wir dürften ihr dürftet sie dürften
+Präsens: ich darf du darfst er darf wir dürfen ihr dürft Sie dürfen
+Ind. Präteritum: ich durfte du durftest er durfte wir durften ihr durftet Sie durften
+Sub. Präteritum: ich dürfte du dürftest er dürfte wir dürften ihr dürftet Sie dürften
 Imperativs:
 Partizip I: dürfend
 Partizip II: dürfen,
 #### zu empfehlen
 Note: This verb doesn’t follow the conjugation of “fehlen”, which is completely regular.
-Präsens: ich empfehle du empfiehlst sie empfiehlt wir empfehlen ihr empfehlt sie empfehlen
-Ind. Präteritum: ich empfahl du empfahlst er empfahl wir empfahlen ihr empfahlt sie empfahlen
-Sub. Präteritum: ich empföhle du empföhlst sie empföhle wir empföhlen ihr empföhlt sie empföhlen
+Präsens: ich empfehle du empfiehlst er empfiehlt wir empfehlen ihr empfehlt Sie empfehlen
+Ind. Präteritum: ich empfahl du empfahlst er empfahl wir empfahlen ihr empfahlt Sie empfahlen
+Sub. Präteritum: ich empföhle du empföhlst er empföhle wir empföhlen ihr empföhlt Sie empföhlen
 Imperativs: empfiehl! empfehlt!
 Partizip I: empfehlend
 Partizip II: empfohlen
 #### zu essen
-Note: 
-Präsens: ich esse du isst er isst wir essen ihr esst sie essen
-Ind. Präteritum: ich aß du aßt er aß wir aßen ihr aßt sie aßen
-Sub. Präteritum: ich äße du äßest es äße wir äßen ihr äßet sie äßen
+Note:
+Präsens: ich esse du isst er isst wir essen ihr esst Sie essen
+Ind. Präteritum: ich aß du aßt er aß wir aßen ihr aßt Sie aßen
+Sub. Präteritum: ich äße du äßest er äße wir äßen ihr äßet Sie äßen
 Imperativs: iss! esst!
 Partizip I: essend
 Partizip II: gegessen
 #### zu fahren
 Note: In the sense of movement, the auxiliary verb is “sein”. Fahren can also mean “to drive a vehicle”, in which case the auxiliary verb is “haben”, e.g. “er hat den Wagen nach Berlin gefahren”.
-Präsens: ich fahre du fährst es fährt wir fahren ihr fahrt sie fahren
-Ind. Präteritum: ich fuhr du fuhrst er fuhr wir fuhren ihr fuhrt sie fuhren
-Sub. Präteritum: ich führe du führst sie führe wir führen ihr führt sie führen
+Präsens: ich fahre du fährst er fährt wir fahren ihr fahrt Sie fahren
+Ind. Präteritum: ich fuhr du fuhrst er fuhr wir fuhren ihr fuhrt Sie fuhren
+Sub. Präteritum: ich führe du führst er führe wir führen ihr führt Sie führen
 Imperativs: fahr, fahrt!
 Partizip I: fahrend
 Partizip II: gefahren
 #### zu fallen
-Note: 
-Präsens: ich falle du fällst er fällt wir fallen ihr fallt sie fallen
-Ind. Präteritum: ich fiel du fielst sie fiel wir fielen ihr fielt sie fielen
-Sub. Präteritum: ich fiele du fielest sie fiele wir fielen ihr fielet sie fielen
+Note:
+Präsens: ich falle du fällst er fällt wir fallen ihr fallt Sie fallen
+Ind. Präteritum: ich fiel du fielst er fiel wir fielen ihr fielt Sie fielen
+Sub. Präteritum: ich fiele du fielest er fiele wir fielen ihr fielet Sie fielen
 Imperativs: fall, fallt!
 Partizip I: fallend
 Partizip II: gefallen
 #### zu fangen
-Note: 
-Präsens: ich fange du fängst es fängt wir fangen ihr fangt sie fangen
-Ind. Präteritum: ich fing du fingst es fing wir fingen ihr fingt sie fingen
-Sub. Präteritum: ich finge du fingest sie finge wir fingen ihr finget sie fingen
+Note:
+Präsens: ich fange du fängst er fängt wir fangen ihr fangt Sie fangen
+Ind. Präteritum: ich fing du fingst er fing wir fingen ihr fingt Sie fingen
+Sub. Präteritum: ich finge du fingest er finge wir fingen ihr finget Sie fingen
 Imperativs: fang, fangt!
 Partizip I: fangend
 Partizip II: gefangen
 #### zu finden
-Note: 
-Präsens: ich finde du findest er findet wir finden ihr findet sie finden
-Ind. Präteritum: ich fand du fandst es fand wir fanden ihr fandet sie fanden
-Sub. Präteritum: ich fände du fändest es fände wir fänden ihr fändet sie fänden
+Note:
+Präsens: ich finde du findest er findet wir finden ihr findet Sie finden
+Ind. Präteritum: ich fand du fandst er fand wir fanden ihr fandet Sie fanden
+Sub. Präteritum: ich fände du fändest er fände wir fänden ihr fändet Sie fänden
 Imperativs: find, findet!
 Partizip I: findend
 Partizip II: gefunden
 #### zu fliegen
 Note: In the sense of movement, the auxiliary verb is “sein”. Fliegen can also mean “to fly a plane”, in which case the auxiliary verb is “haben”, e.g. “der Pilot hat das Flugzeug geflogen”.
-Präsens: ich fliege du fliegst es fliegt wir fliegen ihr fliegt sie fliegen
-Ind. Präteritum: ich flog du flogst er flog wir flogen ihr flogt sie flogen
-Sub. Präteritum: ich flöge du flögest es flöge wir flögen ihr flöget sie flögen
+Präsens: ich fliege du fliegst er fliegt wir fliegen ihr fliegt Sie fliegen
+Ind. Präteritum: ich flog du flogst er flog wir flogen ihr flogt Sie flogen
+Sub. Präteritum: ich flöge du flögest er flöge wir flögen ihr flöget Sie flögen
 Imperativs: flieg, fliegt!
 Partizip I: fliegend
 Partizip II: geflogen
 #### zu fliehen
-Note: 
-Präsens: ich fliehe du fliehst es flieht wir fliehen ihr flieht sie fliehen
-Ind. Präteritum: ich floh du flohst er floh wir flohen ihr floht sie flohen
-Sub. Präteritum: ich flöhe du flöhst er flöhe wir flöhen ihr flöht sie flöhen
+Note:
+Präsens: ich fliehe du fliehst er flieht wir fliehen ihr flieht Sie fliehen
+Ind. Präteritum: ich floh du flohst er floh wir flohen ihr floht Sie flohen
+Sub. Präteritum: ich flöhe du flöhst er flöhe wir flöhen ihr flöht Sie flöhen
 Imperativs: flieh, flieht!
 Partizip I: fliehend
 Partizip II: geflohen
 #### zu fressen
-Note: 
-Präsens: ich fresse du frisst sie frisst wir fressen ihr fresst sie fressen
-Ind. Präteritum: ich fraß du fraßt sie fraß wir fraßen ihr fraßt sie fraßen
-Sub. Präteritum: ich fräße du fräßest sie fräße wir fräßen ihr fräßet sie fräßen
+Note:
+Präsens: ich fresse du frisst er frisst wir fressen ihr fresst Sie fressen
+Ind. Präteritum: ich fraß du fraßt er fraß wir fraßen ihr fraßt Sie fraßen
+Sub. Präteritum: ich fräße du fräßest er fräße wir fräßen ihr fräßet Sie fräßen
 Imperativs: friss! fresst!
 Partizip I: fressend
 Partizip II: gefressen
 #### zu frieren
-Note: 
-Präsens: ich friere du frierst er friert wir frieren ihr friert sie frieren
-Ind. Präteritum: ich fror du frorst er fror wir froren ihr frort sie froren
-Sub. Präteritum: ich fröre du frörst er fröre wir frören ihr frört sie frören
+Note:
+Präsens: ich friere du frierst er friert wir frieren ihr friert Sie frieren
+Ind. Präteritum: ich fror du frorst er fror wir froren ihr frort Sie froren
+Sub. Präteritum: ich fröre du frörst er fröre wir frören ihr frört Sie frören
 Imperativs: frier, friert!
 Partizip I: frierend
 Partizip II: gefroren
 #### zu geben
-Note: 
-Präsens: ich gebe du gibst sie gibt wir geben ihr gebt sie geben
-Ind. Präteritum: ich gab du gabst sie gab wir gaben ihr gabt sie gaben
-Sub. Präteritum: ich gäbe du gäbst sie gäbe wir gäben ihr gäbt sie gäben
+Note:
+Präsens: ich gebe du gibst er gibt wir geben ihr gebt Sie geben
+Ind. Präteritum: ich gab du gabst er gab wir gaben ihr gabt Sie gaben
+Sub. Präteritum: ich gäbe du gäbst er gäbe wir gäben ihr gäbt Sie gäben
 Imperativs: gib! gebt!
 Partizip I: gebend
 Partizip II: gegeben
 #### zu gedeihen
-Note: 
-Präsens: ich gedeihe du gedeihst sie gedeiht wir gedeihen ihr gedeiht sie gedeihen
-Ind. Präteritum: ich gedieh du gediehst sie gedieh wir gediehen ihr gedieht sie gediehen
-Sub. Präteritum: ich gediehe du gediehest es gediehe wir gediehen ihr gediehet sie gediehen
+Note:
+Präsens: ich gedeihe du gedeihst er gedeiht wir gedeihen ihr gedeiht Sie gedeihen
+Ind. Präteritum: ich gedieh du gediehst er gedieh wir gediehen ihr gedieht Sie gediehen
+Sub. Präteritum: ich gediehe du gediehest er gediehe wir gediehen ihr gediehet Sie gediehen
 Imperativs: gedeih, gedeiht!
 Partizip I: gedeihend
 Partizip II: gediehen
 #### zu gehen
 Note: For subjunctive, both “ginge” and “würde gehen” are common.
-Präsens: ich gehe du gehst er geht wir gehen ihr geht sie gehen
-Ind. Präteritum: ich ging du gingst sie ging wir gingen ihr gingt sie gingen
-Sub. Präteritum: ich ginge du gingest sie ginge wir gingen ihr ginget sie gingen
+Präsens: ich gehe du gehst er geht wir gehen ihr geht Sie gehen
+Ind. Präteritum: ich ging du gingst er ging wir gingen ihr gingt Sie gingen
+Sub. Präteritum: ich ginge du gingest er ginge wir gingen ihr ginget Sie gingen
 Imperativs: geh, geht!
 Partizip I: gehend
 Partizip II: gegangen
 #### zu gelten
-Note: 
-Präsens: ich gelte du giltst er gilt wir gelten ihr geltet sie gelten
-Ind. Präteritum: ich galt du galtst es galt wir galten ihr galtet sie galten
-Sub. Präteritum: ich gölte du göltest es gölte wir gölten ihr göltet sie gölten
+Note:
+Präsens: ich gelte du giltst er gilt wir gelten ihr geltet Sie gelten
+Ind. Präteritum: ich galt du galtst er galt wir galten ihr galtet Sie galten
+Sub. Präteritum: ich gölte du göltest er gölte wir gölten ihr göltet Sie gölten
 Imperativs: gilt! geltet!
 Partizip I: geltend
 Partizip II: gegolten
 #### zu geschehen
 Note: Only the third person exists.
-Präsens: ich – du – er geschieht wir – ihr – sie geschehen
-Ind. Präteritum: ich – du – er geschah wir – ihr – sie geschahen
-Sub. Präteritum: ich – du – es geschähe wir – ihr – sie geschähen
+Präsens: ich – du – er geschieht wir – ihr – Sie geschehen
+Ind. Präteritum: ich – du – er geschah wir – ihr – Sie geschahen
+Sub. Präteritum: ich – du – er geschähe wir – ihr – Sie geschähen
 Imperativs:
 Partizip I: geschehend
 Partizip II: geschehen
 #### zu gewinnen
-Note: 
-Präsens: ich gewinne du gewinnst er gewinnt wir gewinnen ihr gewinnt sie gewinnen
-Ind. Präteritum: ich gewann du gewannst sie gewann wir gewannen ihr gewannt sie gewannen
-Sub. Präteritum: ich gewönne du gewönnst es gewönne wir gewönnen ihr gewönnt sie gewönnen
+Note:
+Präsens: ich gewinne du gewinnst er gewinnt wir gewinnen ihr gewinnt Sie gewinnen
+Ind. Präteritum: ich gewann du gewannst er gewann wir gewannen ihr gewannt Sie gewannen
+Sub. Präteritum: ich gewönne du gewönnst er gewönne wir gewönnen ihr gewönnt Sie gewönnen
 Imperativs: gewinn, gewinnt!
 Partizip I: gewinnend
 Partizip II: gewonnen
 #### zu gleichen
-Note: 
-Präsens: ich gleiche du gleichst es gleicht wir gleichen ihr gleicht sie gleichen
-Ind. Präteritum: ich glich du glichst es glich wir glichen ihr glicht sie glichen
-Sub. Präteritum: ich gliche du glichest er gliche wir glichen ihr glichet sie glichen
+Note:
+Präsens: ich gleiche du gleichst er gleicht wir gleichen ihr gleicht Sie gleichen
+Ind. Präteritum: ich glich du glichst er glich wir glichen ihr glicht Sie glichen
+Sub. Präteritum: ich gliche du glichest er gliche wir glichen ihr glichet Sie glichen
 Imperativs: gleich, gleicht!
 Partizip I: gleichend
 Partizip II: geglichen
 #### zu gleiten
-Note: 
-Präsens: ich gleite du gleitest er gleitet wir gleiten ihr gleitet sie gleiten
-Ind. Präteritum: ich glitt du glittst es glitt wir glitten ihr glittet sie glitten
-Sub. Präteritum: ich glitte du glittest sie glitte wir glitten ihr glittet sie glitten
+Note:
+Präsens: ich gleite du gleitest er gleitet wir gleiten ihr gleitet Sie gleiten
+Ind. Präteritum: ich glitt du glittst er glitt wir glitten ihr glittet Sie glitten
+Sub. Präteritum: ich glitte du glittest er glitte wir glitten ihr glittet Sie glitten
 Imperativs: gleit, gleitet!
 Partizip I: gleitend
 Partizip II: geglitten
 #### zu graben
-Note: 
-Präsens: ich grabe du gräbst es gräbt wir graben ihr grabt sie graben
-Ind. Präteritum: ich grub du grubst sie grub wir gruben ihr grubt sie gruben
-Sub. Präteritum: ich grübe du grübst sie grübe wir grüben ihr grübt sie grüben
+Note:
+Präsens: ich grabe du gräbst er gräbt wir graben ihr grabt Sie graben
+Ind. Präteritum: ich grub du grubst er grub wir gruben ihr grubt Sie gruben
+Sub. Präteritum: ich grübe du grübst er grübe wir grüben ihr grübt Sie grüben
 Imperativs: grab, grabt!
 Partizip I: grabend
 Partizip II: gegraben
 #### zu greifen
-Note: 
-Präsens: ich greife du greifst sie greift wir greifen ihr greift sie greifen
-Ind. Präteritum: ich griff du griffst es griff wir griffen ihr grifft sie griffen
-Sub. Präteritum: ich griffe du griffest es griffe wir griffen ihr griffet sie griffen
+Note:
+Präsens: ich greife du greifst er greift wir greifen ihr greift Sie greifen
+Ind. Präteritum: ich griff du griffst er griff wir griffen ihr grifft Sie griffen
+Sub. Präteritum: ich griffe du griffest er griffe wir griffen ihr griffet Sie griffen
 Imperativs: greif, greift!
 Partizip I: greifend
 Partizip II: gegriffen
 #### zu halten
-Note: 
-Präsens: ich halte du hältst sie hält wir halten ihr haltet sie halten
-Ind. Präteritum: ich hielt du hieltst er hielt wir hielten ihr hieltet sie hielten
-Sub. Präteritum: ich hielte du hieltest sie hielte wir hielten ihr hieltet sie hielten
+Note:
+Präsens: ich halte du hältst er hält wir halten ihr haltet Sie halten
+Ind. Präteritum: ich hielt du hieltst er hielt wir hielten ihr hieltet Sie hielten
+Sub. Präteritum: ich hielte du hieltest er hielte wir hielten ihr hieltet Sie hielten
 Imperativs: halt, haltet!
 Partizip I: haltend
 Partizip II: gehalten
 #### zu heben
-Note: 
-Präsens: ich hebe du hebst es hebt wir heben ihr hebt sie heben
-Ind. Präteritum: ich hub du hubst sie hub wir huben ihr hubt sie huben
-Sub. Präteritum: ich hübe du hübst es hübe wir hüben ihr hübt sie hüben
+Note:
+Präsens: ich hebe du hebst er hebt wir heben ihr hebt Sie heben
+Ind. Präteritum: ich hub du hubst er hub wir huben ihr hubt Sie huben
+Sub. Präteritum: ich hübe du hübst er hübe wir hüben ihr hübt Sie hüben
 Imperativs: heb, hebt!
 Partizip I: hebend
 Partizip II: gehoben
 #### zu helfen
-Note: 
-Präsens: ich helfe du hilfst sie hilft wir helfen ihr helft sie helfen
-Ind. Präteritum: ich half du halfst er half wir halfen ihr halft sie halfen
-Sub. Präteritum: ich hülfe du hülfst sie hülfe wir hülfen ihr hülft sie hülfen
+Note:
+Präsens: ich helfe du hilfst er hilft wir helfen ihr helft Sie helfen
+Ind. Präteritum: ich half du halfst er half wir halfen ihr halft Sie halfen
+Sub. Präteritum: ich hülfe du hülfst er hülfe wir hülfen ihr hülft Sie hülfen
 Imperativs: hilf! helft!
 Partizip I: helfend
 Partizip II: geholfen
 #### zu kennen
-Note: 
-Präsens: ich kenne du kennst er kennt wir kennen ihr kennt sie kennen
-Ind. Präteritum: ich kannte du kanntest sie kannte wir kannten ihr kanntet sie kannten
-Sub. Präteritum: ich kennte du kenntest es kennte wir kennten ihr kenntet sie kennten
+Note:
+Präsens: ich kenne du kennst er kennt wir kennen ihr kennt Sie kennen
+Ind. Präteritum: ich kannte du kanntest er kannte wir kannten ihr kanntet Sie kannten
+Sub. Präteritum: ich kennte du kenntest er kennte wir kennten ihr kenntet Sie kennten
 Imperativs: kenn, kennt!
 Partizip I: kennend
 Partizip II: gekannt
 #### zu klingen
-Note: 
-Präsens: ich klinge du klingst es klingt wir klingen ihr klingt sie klingen
-Ind. Präteritum: ich klang du klangst er klang wir klangen ihr klangt sie klangen
-Sub. Präteritum: ich klänge du klängest sie klänge wir klängen ihr klänget sie klängen
+Note:
+Präsens: ich klinge du klingst er klingt wir klingen ihr klingt Sie klingen
+Ind. Präteritum: ich klang du klangst er klang wir klangen ihr klangt Sie klangen
+Sub. Präteritum: ich klänge du klängest er klänge wir klängen ihr klänget Sie klängen
 Imperativs: kling, klingt!
 Partizip I: klingend
 Partizip II: geklungen
 #### zu kommen
 Note: For subjunctive, both “käme” and “würde kommen” are common. Notice also that “bekommen” has “haben” as auxiliary verb, although it is derived from “kommen”.
-Präsens: ich komme du kommst er kommt wir kommen ihr kommt sie kommen
-Ind. Präteritum: ich kam du kamst sie kam wir kamen ihr kamt sie kamen
-Sub. Präteritum: ich käme du kämst er käme wir kämen ihr kämt sie kämen
+Präsens: ich komme du kommst er kommt wir kommen ihr kommt Sie kommen
+Ind. Präteritum: ich kam du kamst er kam wir kamen ihr kamt Sie kamen
+Sub. Präteritum: ich käme du kämst er käme wir kämen ihr kämt Sie kämen
 Imperativs: komm, kommt!
 Partizip I: kommend
 Partizip II: gekommen
 #### zu können
 Note: The first person singular is “ich kann”. For subjunctive, only “könnte” is possible (“würde können” does not exist). In the past, “konnte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen können”.
-Präsens: ich kann du kannst es kann wir können ihr könnt sie können
-Ind. Präteritum: ich konnte du konntest sie konnte wir konnten ihr konntet sie konnten
-Sub. Präteritum: ich könnte du könntest sie könnte wir könnten ihr könntet sie könnten
+Präsens: ich kann du kannst er kann wir können ihr könnt Sie können
+Ind. Präteritum: ich konnte du konntest er konnte wir konnten ihr konntet Sie konnten
+Sub. Präteritum: ich könnte du könntest er könnte wir könnten ihr könntet Sie könnten
 Imperativs:
 Partizip I: könnend
 Partizip II: können,
 #### zu kriechen
-Note: 
-Präsens: ich krieche du kriechst sie kriecht wir kriechen ihr kriecht sie kriechen
-Ind. Präteritum: ich kroch du krochst sie kroch wir krochen ihr krocht sie krochen
-Sub. Präteritum: ich kröche du kröchst er kröche wir kröchen ihr kröcht sie kröchen
+Note:
+Präsens: ich krieche du kriechst er kriecht wir kriechen ihr kriecht Sie kriechen
+Ind. Präteritum: ich kroch du krochst er kroch wir krochen ihr krocht Sie krochen
+Sub. Präteritum: ich kröche du kröchst er kröche wir kröchen ihr kröcht Sie kröchen
 Imperativs: kriech, kriecht!
 Partizip I: kriechend
 Partizip II: gekrochen
 #### zu lassen
 Note: For subjunctive, both “ließe” and “würde lassen” are common.
-Präsens: ich lasse du lässt es lässt wir lassen ihr lasst sie lassen
-Ind. Präteritum: ich ließ du ließest es ließ wir ließen ihr ließt sie ließen
-Sub. Präteritum: ich ließe du ließest er ließe wir ließen ihr ließet sie ließen
+Präsens: ich lasse du lässt er lässt wir lassen ihr lasst Sie lassen
+Ind. Präteritum: ich ließ du ließest er ließ wir ließen ihr ließt Sie ließen
+Sub. Präteritum: ich ließe du ließest er ließe wir ließen ihr ließet Sie ließen
 Imperativs: lass, lasst!
 Partizip I: lassend
 Partizip II: gelassen,
 #### zu laufen
-Note: 
-Präsens: ich laufe du läufst es läuft wir laufen ihr lauft sie laufen
-Ind. Präteritum: ich lief du liefst sie lief wir liefen ihr lieft sie liefen
-Sub. Präteritum: ich liefe du liefest es liefe wir liefen ihr liefet sie liefen
+Note:
+Präsens: ich laufe du läufst er läuft wir laufen ihr lauft Sie laufen
+Ind. Präteritum: ich lief du liefst er lief wir liefen ihr lieft Sie liefen
+Sub. Präteritum: ich liefe du liefest er liefe wir liefen ihr liefet Sie liefen
 Imperativs: lauf, lauft!
 Partizip I: laufend
 Partizip II: gelaufen
 #### zu leiden
-Note: 
-Präsens: ich leide du leidest er leidet wir leiden ihr leidet sie leiden
-Ind. Präteritum: ich litt du littst sie litt wir litten ihr littet sie litten
-Sub. Präteritum: ich litte du littest er litte wir litten ihr littet sie litten
+Note:
+Präsens: ich leide du leidest er leidet wir leiden ihr leidet Sie leiden
+Ind. Präteritum: ich litt du littst er litt wir litten ihr littet Sie litten
+Sub. Präteritum: ich litte du littest er litte wir litten ihr littet Sie litten
 Imperativs: leide! leidet!
 Partizip I: leidend
 Partizip II: gelitten
 #### zu leihen
-Note: 
-Präsens: ich leihe du leihst sie leiht wir leihen ihr leiht sie leihen
-Ind. Präteritum: ich lieh du liehst sie lieh wir liehen ihr lieht sie liehen
-Sub. Präteritum: ich liehe du liehest sie liehe wir liehen ihr liehet sie liehen
+Note:
+Präsens: ich leihe du leihst er leiht wir leihen ihr leiht Sie leihen
+Ind. Präteritum: ich lieh du liehst er lieh wir liehen ihr lieht Sie liehen
+Sub. Präteritum: ich liehe du liehest er liehe wir liehen ihr liehet Sie liehen
 Imperativs: leih, leiht!
 Partizip I: leihend
 Partizip II: geliehen
 #### zu lügen
-Note: 
-Präsens: ich lüge du lügst sie lügt wir lügen ihr lügt sie lügen
-Ind. Präteritum: ich log du logst sie log wir logen ihr logt sie logen
-Sub. Präteritum: ich löge du lögst sie löge wir lögen ihr lögt sie lögen
+Note:
+Präsens: ich lüge du lügst er lügt wir lügen ihr lügt Sie lügen
+Ind. Präteritum: ich log du logst er log wir logen ihr logt Sie logen
+Sub. Präteritum: ich löge du lögst er löge wir lögen ihr lögt Sie lögen
 Imperativs: lüg, lügt!
 Partizip I: lügend
 Partizip II: gelogen
 #### zu messen
-Note: 
-Präsens: ich messe du misst sie misst wir messen ihr messt sie messen
-Ind. Präteritum: ich maß du maßest er maß wir maßen ihr maßt sie maßen
-Sub. Präteritum: ich mäße du mäßest sie mäße wir mäßen ihr mäßet sie mäßen
+Note:
+Präsens: ich messe du misst er misst wir messen ihr messt Sie messen
+Ind. Präteritum: ich maß du maßest er maß wir maßen ihr maßt Sie maßen
+Sub. Präteritum: ich mäße du mäßest er mäße wir mäßen ihr mäßet Sie mäßen
 Imperativs: miss! messt!
 Partizip I: messend
 Partizip II: gemessen
 #### zu mögen
 Note: The first person singular is “ich mag”. The subjunctive acts as a full modal verb, meaning “would like to”, e.g. “ich möchte ihn treffen” (I would like to meet him).
-Präsens: ich mag du magst er mag wir mögen ihr mögt sie mögen
-Ind. Präteritum: ich mochte du mochtest er mochte wir mochten ihr mochtet sie mochten
-Sub. Präteritum: ich möchte du möchtest er möchte wir möchten ihr möchtet sie möchten
+Präsens: ich mag du magst er mag wir mögen ihr mögt Sie mögen
+Ind. Präteritum: ich mochte du mochtest er mochte wir mochten ihr mochtet Sie mochten
+Sub. Präteritum: ich möchte du möchtest er möchte wir möchten ihr möchtet Sie möchten
 Imperativs:
 Partizip I: mögend
 Partizip II: mögen,
 #### zu müssen
 Note: The first person singular is “ich muss”. For subjunctive, only “müsste” is possible (“würde müssen” does not exist). In the past, “musste” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen müssen”.
-Präsens: ich muss du musst sie muss wir müssen ihr müsst sie müssen
-Ind. Präteritum: ich musste du musstest er musste wir mussten ihr musstet sie mussten
-Sub. Präteritum: ich müsste du müsstest sie müsste wir müssten ihr müsstet sie müssten
+Präsens: ich muss du musst er muss wir müssen ihr müsst Sie müssen
+Ind. Präteritum: ich musste du musstest er musste wir mussten ihr musstet Sie mussten
+Sub. Präteritum: ich müsste du müsstest er müsste wir müssten ihr müsstet Sie müssten
 Imperativs:
 Partizip I: müssend
 Partizip II: müssen,
 #### zu nehmen
-Note: 
-Präsens: ich nehme du nimmst sie nimmt wir nehmen ihr nehmt sie nehmen
-Ind. Präteritum: ich nahm du nahmst er nahm wir nahmen ihr nahmt sie nahmen
-Sub. Präteritum: ich nähme du nähmst er nähme wir nähmen ihr nähmt sie nähmen
+Note:
+Präsens: ich nehme du nimmst er nimmt wir nehmen ihr nehmt Sie nehmen
+Ind. Präteritum: ich nahm du nahmst er nahm wir nahmen ihr nahmt Sie nahmen
+Sub. Präteritum: ich nähme du nähmst er nähme wir nähmen ihr nähmt Sie nähmen
 Imperativs: nimm! nehmt!
 Partizip I: nehmend
 Partizip II: genommen
 #### zu nennen
-Note: 
-Präsens: ich nenne du nennst es nennt wir nennen ihr nennt sie nennen
-Ind. Präteritum: ich nannte du nanntest er nannte wir nannten ihr nanntet sie nannten
-Sub. Präteritum: ich nennte du nenntest er nennte wir nennten ihr nenntet sie nennten
+Note:
+Präsens: ich nenne du nennst er nennt wir nennen ihr nennt Sie nennen
+Ind. Präteritum: ich nannte du nanntest er nannte wir nannten ihr nanntet Sie nannten
+Sub. Präteritum: ich nennte du nenntest er nennte wir nennten ihr nenntet Sie nennten
 Imperativs: nenn, nennt!
 Partizip I: nennend
 Partizip II: genannt
 #### zu pfeifen
-Note: 
-Präsens: ich pfeife du pfeifst sie pfeift wir pfeifen ihr pfeift sie pfeifen
-Ind. Präteritum: ich pfiff du pfiffst sie pfiff wir pfiffen ihr pfifft sie pfiffen
-Sub. Präteritum: ich pfiffe du pfiffest sie pfiffe wir pfiffen ihr pfiffet sie pfiffen
+Note:
+Präsens: ich pfeife du pfeifst er pfeift wir pfeifen ihr pfeift Sie pfeifen
+Ind. Präteritum: ich pfiff du pfiffst er pfiff wir pfiffen ihr pfifft Sie pfiffen
+Sub. Präteritum: ich pfiffe du pfiffest er pfiffe wir pfiffen ihr pfiffet Sie pfiffen
 Imperativs: pfeif, pfeift!
 Partizip I: pfeifend
 Partizip II: gepfiffen
 #### zu reiben
-Note: 
-Präsens: ich reibe du reibst es reibt wir reiben ihr reibt sie reiben
-Ind. Präteritum: ich rieb du riebst es rieb wir rieben ihr riebt sie rieben
-Sub. Präteritum: ich riebe du riebest es riebe wir rieben ihr riebet sie rieben
+Note:
+Präsens: ich reibe du reibst er reibt wir reiben ihr reibt Sie reiben
+Ind. Präteritum: ich rieb du riebst er rieb wir rieben ihr riebt Sie rieben
+Sub. Präteritum: ich riebe du riebest er riebe wir rieben ihr riebet Sie rieben
 Imperativs: reib, reibt!
 Partizip I: reibend
 Partizip II: gerieben
 #### zu reiten
 Note: For most meanings both “haben” and “sein” as auxiliary verbs are possible, but for the meaning “to ride a horse”, “sein” is preferred (e.g. “er ist nach Berlin geritten”). If it is used to specify the ridden animal, the auxiliary verb is “haben”, e.g. “er hat ein Kamel geritten” (he rode a camel).
-Präsens: ich reite du reitest er reitet wir reiten ihr reitet sie reiten
-Ind. Präteritum: ich ritt du rittst er ritt wir ritten ihr rittet sie ritten
-Sub. Präteritum: ich ritte du rittest sie ritte wir ritten ihr rittet sie ritten
+Präsens: ich reite du reitest er reitet wir reiten ihr reitet Sie reiten
+Ind. Präteritum: ich ritt du rittst er ritt wir ritten ihr rittet Sie ritten
+Sub. Präteritum: ich ritte du rittest er ritte wir ritten ihr rittet Sie ritten
 Imperativs: reit, reitet!
 Partizip I: reitend
 Partizip II: geritten
 #### zu rennen
-Note: 
-Präsens: ich renne du rennst er rennt wir rennen ihr rennt sie rennen
-Ind. Präteritum: ich rannte du ranntest sie rannte wir rannten ihr ranntet sie rannten
-Sub. Präteritum: ich rennte du renntest es rennte wir rennten ihr renntet sie rennten
+Note:
+Präsens: ich renne du rennst er rennt wir rennen ihr rennt Sie rennen
+Ind. Präteritum: ich rannte du ranntest er rannte wir rannten ihr ranntet Sie rannten
+Sub. Präteritum: ich rennte du renntest er rennte wir rennten ihr renntet Sie rennten
 Imperativs: renn, rennt!
 Partizip I: rennend
 Partizip II: gerannt
 #### zu riechen
-Note: 
-Präsens: ich rieche du riechst er riecht wir riechen ihr riecht sie riechen
-Ind. Präteritum: ich roch du rochst es roch wir rochen ihr rocht sie rochen
-Sub. Präteritum: ich röche du röchst es röche wir röchen ihr röcht sie röchen
+Note:
+Präsens: ich rieche du riechst er riecht wir riechen ihr riecht Sie riechen
+Ind. Präteritum: ich roch du rochst er roch wir rochen ihr rocht Sie rochen
+Sub. Präteritum: ich röche du röchst er röche wir röchen ihr röcht Sie röchen
 Imperativs: riech, riecht!
 Partizip I: riechend
 Partizip II: gerochen
 #### zu rufen
-Note: 
-Präsens: ich rufe du rufst sie ruft wir rufen ihr ruft sie rufen
-Ind. Präteritum: ich rief du riefst sie rief wir riefen ihr rieft sie riefen
-Sub. Präteritum: ich riefe du riefest es riefe wir riefen ihr riefet sie riefen
+Note:
+Präsens: ich rufe du rufst er ruft wir rufen ihr ruft Sie rufen
+Ind. Präteritum: ich rief du riefst er rief wir riefen ihr rieft Sie riefen
+Sub. Präteritum: ich riefe du riefest er riefe wir riefen ihr riefet Sie riefen
 Imperativs: ruf, ruft!
 Partizip I: rufend
 Partizip II: gerufen
 #### zu scheiden
-Note: 
-Präsens: ich scheide du scheidest sie scheidet wir scheiden ihr scheidet sie scheiden
-Ind. Präteritum: ich schied du schiedst er schied wir schieden ihr schiedet sie schieden
-Sub. Präteritum: ich schiede du schiedest er schiede wir schieden ihr schiedet sie schieden
+Note:
+Präsens: ich scheide du scheidest er scheidet wir scheiden ihr scheidet Sie scheiden
+Ind. Präteritum: ich schied du schiedst er schied wir schieden ihr schiedet Sie schieden
+Sub. Präteritum: ich schiede du schiedest er schiede wir schieden ihr schiedet Sie schieden
 Imperativs: scheid, scheidet!
 Partizip I: scheidend
 Partizip II: geschieden
 #### zu scheinen
-Note: 
-Präsens: ich scheine du scheinst sie scheint wir scheinen ihr scheint sie scheinen
-Ind. Präteritum: ich schien du schienst sie schien wir schienen ihr schient sie schienen
-Sub. Präteritum: ich schiene du schienest sie schiene wir schienen ihr schienet sie schienen
+Note:
+Präsens: ich scheine du scheinst er scheint wir scheinen ihr scheint Sie scheinen
+Ind. Präteritum: ich schien du schienst er schien wir schienen ihr schient Sie schienen
+Sub. Präteritum: ich schiene du schienest er schiene wir schienen ihr schienet Sie schienen
 Imperativs: schein, scheint!
 Partizip I: scheinend
 Partizip II: geschienen
 #### zu schieben
-Note: 
-Präsens: ich schiebe du schiebst sie schiebt wir schieben ihr schiebt sie schieben
-Ind. Präteritum: ich schob du schobst es schob wir schoben ihr schobt sie schoben
-Sub. Präteritum: ich schöbe du schöbst er schöbe wir schöben ihr schöbt sie schöben
+Note:
+Präsens: ich schiebe du schiebst er schiebt wir schieben ihr schiebt Sie schieben
+Ind. Präteritum: ich schob du schobst er schob wir schoben ihr schobt Sie schoben
+Sub. Präteritum: ich schöbe du schöbst er schöbe wir schöben ihr schöbt Sie schöben
 Imperativs: schieb, schiebt!
 Partizip I: schiebend
 Partizip II: geschoben
 #### zu schlafen
-Note: 
-Präsens: ich schlafe du schläfst er schläft wir schlafen ihr schlaft sie schlafen
-Ind. Präteritum: ich schlief du schliefst es schlief wir schliefen ihr schlieft sie schliefen
-Sub. Präteritum: ich schliefe du schliefest es schliefe wir schliefen ihr schliefet sie schliefen
+Note:
+Präsens: ich schlafe du schläfst er schläft wir schlafen ihr schlaft Sie schlafen
+Ind. Präteritum: ich schlief du schliefst er schlief wir schliefen ihr schlieft Sie schliefen
+Sub. Präteritum: ich schliefe du schliefest er schliefe wir schliefen ihr schliefet Sie schliefen
 Imperativs: schlaf, schlaft!
 Partizip I: schlafend
 Partizip II: geschlafen
 #### zu schlagen
-Note: 
-Präsens: ich schlage du schlägst er schlägt wir schlagen ihr schlagt sie schlagen
-Ind. Präteritum: ich schlug du schlugst es schlug wir schlugen ihr schlugt sie schlugen
-Sub. Präteritum: ich schlüge du schlügest es schlüge wir schlügen ihr schlüget sie schlügen
+Note:
+Präsens: ich schlage du schlägst er schlägt wir schlagen ihr schlagt Sie schlagen
+Ind. Präteritum: ich schlug du schlugst er schlug wir schlugen ihr schlugt Sie schlugen
+Sub. Präteritum: ich schlüge du schlügest er schlüge wir schlügen ihr schlüget Sie schlügen
 Imperativs: schlag, schlagt!
 Partizip I: schlagend
 Partizip II: geschlagen
 #### zu schneiden
-Note: 
-Präsens: ich schneide du schneidest sie schneidet wir schneiden ihr schneidet sie schneiden
-Ind. Präteritum: ich schnitt du schnittst er schnitt wir schnitten ihr schnittet sie schnitten
-Sub. Präteritum: ich schnitte du schnittest sie schnitte wir schnitten ihr schnittet sie schnitten
+Note:
+Präsens: ich schneide du schneidest er schneidet wir schneiden ihr schneidet Sie schneiden
+Ind. Präteritum: ich schnitt du schnittst er schnitt wir schnitten ihr schnittet Sie schnitten
+Sub. Präteritum: ich schnitte du schnittest er schnitte wir schnitten ihr schnittet Sie schnitten
 Imperativs: schneid, schneidet!
 Partizip I: schneidend
 Partizip II: geschnitten
 #### zu schreiben
-Note: 
-Präsens: ich schreibe du schreibst sie schreibt wir schreiben ihr schreibt sie schreiben
-Ind. Präteritum: ich schrieb du schriebst er schrieb wir schrieben ihr schriebt sie schrieben
-Sub. Präteritum: ich schriebe du schriebest es schriebe wir schrieben ihr schriebet sie schrieben
+Note:
+Präsens: ich schreibe du schreibst er schreibt wir schreiben ihr schreibt Sie schreiben
+Ind. Präteritum: ich schrieb du schriebst er schrieb wir schrieben ihr schriebt Sie schrieben
+Sub. Präteritum: ich schriebe du schriebest er schriebe wir schrieben ihr schriebet Sie schrieben
 Imperativs: schreib, schreibt!
 Partizip I: schreibend
 Partizip II: geschrieben
 #### zu schreien
-Note: 
-Präsens: ich schreie du schreist sie schreit wir schreien ihr schreit sie schreien
-Ind. Präteritum: ich schrie du schriest er schrie wir schrien ihr schriet sie schrien
-Ind. Präteritum: ich schrie du schriest er schrie wir schrien ihr schriet sie schrien
+Note:
+Präsens: ich schreie du schreist er schreit wir schreien ihr schreit Sie schreien
+Ind. Präteritum: ich schrie du schriest er schrie wir schrien ihr schriet Sie schrien
+Ind. Präteritum: ich schrie du schriest er schrie wir schrien ihr schriet Sie schrien
 Imperativs: schrei, schreit!
 Partizip I: schreiend
 Partizip II: geschrien
 #### zu schweigen
-Note: 
-Präsens: ich schweige du schweigst sie schweigt wir schweigen ihr schweigt sie schweigen
-Ind. Präteritum: ich schwieg du schwiegst es schwieg wir schwiegen ihr schwiegt sie schwiegen
-Sub. Präteritum: ich schwiege du schwiegest er schwiege wir schwiegen ihr schwieget sie schwiegen
+Note:
+Präsens: ich schweige du schweigst er schweigt wir schweigen ihr schweigt Sie schweigen
+Ind. Präteritum: ich schwieg du schwiegst er schwieg wir schwiegen ihr schwiegt Sie schwiegen
+Sub. Präteritum: ich schwiege du schwiegest er schwiege wir schwiegen ihr schwieget Sie schwiegen
 Imperativs: schweig, schweigt!
 Partizip I: schweigend
 Partizip II: geschwiegen
 #### zu schwimmen
 Note: When the verb signifies movement, the auxiliary verb is “sein”, e.g. “er ist zur Insel geschwommen” (he swam to the island). When it means just the activity, both “haben” and “sein” are possible, “haben” is preferred in the North of Germany, “sein” in the South.
-Präsens: ich schwimme du schwimmst er schwimmt wir schwimmen ihr schwimmt sie schwimmen
-Ind. Präteritum: ich schwamm du schwammst sie schwamm wir schwammen ihr schwammt sie schwammen
-Sub. Präteritum: ich schwömme du schwömmst sie schwömme wir schwömmen ihr schwömmt sie schwömmen
+Präsens: ich schwimme du schwimmst er schwimmt wir schwimmen ihr schwimmt Sie schwimmen
+Ind. Präteritum: ich schwamm du schwammst er schwamm wir schwammen ihr schwammt Sie schwammen
+Sub. Präteritum: ich schwömme du schwömmst er schwömme wir schwömmen ihr schwömmt Sie schwömmen
 Imperativs: schwimm, schwimmt!
 Partizip I: schwimmend
 Partizip II: geschwommen
 #### zu schwingen
-Note: 
-Präsens: ich schwinge du schwingst er schwingt wir schwingen ihr schwingt sie schwingen
-Ind. Präteritum: ich schwang du schwangst er schwang wir schwangen ihr schwangt sie schwangen
-Sub. Präteritum: ich schwänge du schwängest er schwänge wir schwängen ihr schwänget sie schwängen
+Note:
+Präsens: ich schwinge du schwingst er schwingt wir schwingen ihr schwingt Sie schwingen
+Ind. Präteritum: ich schwang du schwangst er schwang wir schwangen ihr schwangt Sie schwangen
+Sub. Präteritum: ich schwänge du schwängest er schwänge wir schwängen ihr schwänget Sie schwängen
 Imperativs: schwing, schwingt!
 Partizip I: schwingend
 Partizip II: geschwungen
 #### zu schwören
-Note: 
-Präsens: ich schwöre du schwörst es schwört wir schwören ihr schwört sie schwören
-Ind. Präteritum: ich schwur du schwurst es schwur wir schwuren ihr schwurt sie schwuren
-Sub. Präteritum: ich schwüre du schwürst es schwüre wir schwüren ihr schwürt sie schwüren
+Note:
+Präsens: ich schwöre du schwörst er schwört wir schwören ihr schwört Sie schwören
+Ind. Präteritum: ich schwur du schwurst er schwur wir schwuren ihr schwurt Sie schwuren
+Sub. Präteritum: ich schwüre du schwürst er schwüre wir schwüren ihr schwürt Sie schwüren
 Imperativs: schwör, schwört!
 Partizip I: schwörend
 Partizip II: geschworen
 #### zu sehen
-Note: 
-Präsens: ich sehe du siehst es sieht wir sehen ihr seht sie sehen
-Ind. Präteritum: ich sah du sahst sie sah wir sahen ihr saht sie sahen
-Sub. Präteritum: ich sähe du sähst es sähe wir sähen ihr säht sie sähen
+Note:
+Präsens: ich sehe du siehst er sieht wir sehen ihr seht Sie sehen
+Ind. Präteritum: ich sah du sahst er sah wir sahen ihr saht Sie sahen
+Sub. Präteritum: ich sähe du sähst er sähe wir sähen ihr säht Sie sähen
 Imperativs: sieh, seht!
 Partizip I: sehend
 Partizip II: gesehen,
 #### zu senden
 Note: This conjugation is used when “senden” means “to send something physically”, such as a package or a letter. It can also mean “to broadcast or send electronically”, but in this sense it is regular, e.g. “ich habe ihm eine E-Mail gesendet” (I have sent him an e-mail).
-Präsens: ich sende du sendest er sendet wir senden ihr sendet sie senden
-Ind. Präteritum: ich sandte du sandtest sie sandte wir sandten ihr sandtet sie sandten
-Sub. Präteritum: ich sendete du sendetest er sendete wir sendeten ihr sendetet sie sendeten
+Präsens: ich sende du sendest er sendet wir senden ihr sendet Sie senden
+Ind. Präteritum: ich sandte du sandtest er sandte wir sandten ihr sandtet Sie sandten
+Sub. Präteritum: ich sendete du sendetest er sendete wir sendeten ihr sendetet Sie sendeten
 Imperativs: send, sendet!
 Partizip I: sendend
 Partizip II: gesandt
 #### zu singen
-Note: 
-Präsens: ich singe du singst er singt wir singen ihr singt sie singen
-Ind. Präteritum: ich sang du sangst es sang wir sangen ihr sangt sie sangen
-Sub. Präteritum: ich sänge du sängest es sänge wir sängen ihr sänget sie sängen
+Note:
+Präsens: ich singe du singst er singt wir singen ihr singt Sie singen
+Ind. Präteritum: ich sang du sangst er sang wir sangen ihr sangt Sie sangen
+Sub. Präteritum: ich sänge du sängest er sänge wir sängen ihr sänget Sie sängen
 Imperativs: sing, singt!
 Partizip I: singend
 Partizip II: gesungen
 #### zu sinken
-Note: 
-Präsens: ich sinke du sinkst es sinkt wir sinken ihr sinkt sie sinken
-Ind. Präteritum: ich sank du sankst sie sank wir sanken ihr sankt sie sanken
-Sub. Präteritum: ich sänke du sänkst sie sänke wir sänken ihr sänkt sie sänken
+Note:
+Präsens: ich sinke du sinkst er sinkt wir sinken ihr sinkt Sie sinken
+Ind. Präteritum: ich sank du sankst er sank wir sanken ihr sankt Sie sanken
+Sub. Präteritum: ich sänke du sänkst er sänke wir sänken ihr sänkt Sie sänken
 Imperativs: sink, sinkt!
 Partizip I: sinkend
 Partizip II: gesunken
 #### zu sitzen
 Note: The auxiliary verb “sein” is used in the South of Germany, “haben” is used in the North of Germany.
-Präsens: ich sitze du sitzt sie sitzt wir sitzen ihr sitzt sie sitzen
-Ind. Präteritum: ich saß du saßest es saß wir saßen ihr saßt sie saßen
-Sub. Präteritum: ich säße du säßest sie säße wir säßen ihr säßt sie säßen
+Präsens: ich sitze du sitzt er sitzt wir sitzen ihr sitzt Sie sitzen
+Ind. Präteritum: ich saß du saßest er saß wir saßen ihr saßt Sie saßen
+Sub. Präteritum: ich säße du säßest er säße wir säßen ihr säßt Sie säßen
 Imperativs: sitz! sitzt!
 Partizip I: sitzend
 Partizip II: gesessen
 #### zu sollen
 Note: The first person singular is “ich soll”. For subjunctive, only “sollte” is possible (“würde sollen” does not exist). In the past, “sollte” is usually preferred. When used with another infinitive, past participle changes to the infinitive, e.g. “ich habe es machen sollen”.
-Präsens: ich soll du sollst sie soll wir sollen ihr sollt sie sollen
-Ind. Präteritum: ich sollte du solltest es sollte wir sollten ihr solltet sie sollten
-Sub. Präteritum: ich sollte du solltest er sollte wir sollten ihr solltet sie sollten
+Präsens: ich soll du sollst er soll wir sollen ihr sollt Sie sollen
+Ind. Präteritum: ich sollte du solltest er sollte wir sollten ihr solltet Sie sollten
+Ind. Präteritum: ich sollte du solltest er sollte wir sollten ihr solltet Sie sollten
 Imperativs:
 Partizip I: sollend
 Partizip II: sollen,
 #### zu sprechen
-Note: 
-Präsens: ich spreche du sprichst sie spricht wir sprechen ihr sprecht sie sprechen
-Ind. Präteritum: ich sprach du sprachst es sprach wir sprachen ihr spracht sie sprachen
-Sub. Präteritum: ich spräche du sprächst er spräche wir sprächen ihr sprächt sie sprächen
+Note:
+Präsens: ich spreche du sprichst er spricht wir sprechen ihr sprecht Sie sprechen
+Ind. Präteritum: ich sprach du sprachst er sprach wir sprachen ihr spracht Sie sprachen
+Sub. Präteritum: ich spräche du sprächst er spräche wir sprächen ihr sprächt Sie sprächen
 Imperativs: sprich! sprecht!
 Partizip I: sprechend
 Partizip II: gesprochen
 #### zu springen
-Note: 
-Präsens: ich springe du springst sie springt wir springen ihr springt sie springen
-Ind. Präteritum: ich sprang du sprangst sie sprang wir sprangen ihr sprangt sie sprangen
-Sub. Präteritum: ich spränge du sprängest er spränge wir sprängen ihr spränget sie sprängen
+Note:
+Präsens: ich springe du springst er springt wir springen ihr springt Sie springen
+Ind. Präteritum: ich sprang du sprangst er sprang wir sprangen ihr sprangt Sie sprangen
+Sub. Präteritum: ich spränge du sprängest er spränge wir sprängen ihr spränget Sie sprängen
 Imperativs: spring, springt!
 Partizip I: springend
 Partizip II: gesprungen
 #### zu stechen
-Note: 
-Präsens: ich steche du stichst sie sticht wir stechen ihr stecht sie stechen
-Ind. Präteritum: ich stach du stachst sie stach wir stachen ihr stacht sie stachen
-Sub. Präteritum: ich stäche du stächst es stäche wir stächen ihr stächt sie stächen
+Note:
+Präsens: ich steche du stichst er sticht wir stechen ihr stecht Sie stechen
+Ind. Präteritum: ich stach du stachst er stach wir stachen ihr stacht Sie stachen
+Sub. Präteritum: ich stäche du stächst er stäche wir stächen ihr stächt Sie stächen
 Imperativs: stich! stecht!
 Partizip I: stechend
 Partizip II: gestochen
 #### zu stehen
 Note: The auxiliary verb “sein” is used in the South of Germany, “haben” is used in the North of Germany.
-Präsens: ich stehe du stehst sie steht wir stehen ihr steht sie stehen
-Ind. Präteritum: ich stand du standst sie stand wir standen ihr standet sie standen
-Sub. Präteritum: ich stünde du stündest sie stünde wir stünden ihr stündet sie stünden
+Präsens: ich stehe du stehst er steht wir stehen ihr steht Sie stehen
+Ind. Präteritum: ich stand du standst er stand wir standen ihr standet Sie standen
+Sub. Präteritum: ich stünde du stündest er stünde wir stünden ihr stündet Sie stünden
 Imperativs: steh, steht!
 Partizip I: stehend
 Partizip II: gestanden
 #### zu stehlen
-Note: 
-Präsens: ich stehle du stiehlst sie stiehlt wir stehlen ihr stehlt sie stehlen
-Ind. Präteritum: ich stahl du stahlst er stahl wir stahlen ihr stahlt sie stahlen
-Sub. Präteritum: ich stöhle du stöhlst er stöhle wir stöhlen ihr stöhlt sie stöhlen
+Note:
+Präsens: ich stehle du stiehlst er stiehlt wir stehlen ihr stehlt Sie stehlen
+Ind. Präteritum: ich stahl du stahlst er stahl wir stahlen ihr stahlt Sie stahlen
+Sub. Präteritum: ich stöhle du stöhlst er stöhle wir stöhlen ihr stöhlt Sie stöhlen
 Imperativs: stiehl! stehlt!
 Partizip I: stehlend
 Partizip II: gestohlen
 #### zu steigen
-Note: 
-Präsens: ich steige du steigst es steigt wir steigen ihr steigt sie steigen
-Ind. Präteritum: ich stieg du stiegst es stieg wir stiegen ihr stiegt sie stiegen
-Sub. Präteritum: ich stiege du stiegest es stiege wir stiegen ihr stieget sie stiegen
+Note:
+Präsens: ich steige du steigst er steigt wir steigen ihr steigt Sie steigen
+Ind. Präteritum: ich stieg du stiegst er stieg wir stiegen ihr stiegt Sie stiegen
+Sub. Präteritum: ich stiege du stiegest er stiege wir stiegen ihr stieget Sie stiegen
 Imperativs: steig, steigt!
 Partizip I: steigend
 Partizip II: gestiegen
 #### zu sterben
-Note: 
-Präsens: ich sterbe du stirbst sie stirbt wir sterben ihr sterbt sie sterben
-Ind. Präteritum: ich starb du starbst es starb wir starben ihr starbt sie starben
-Sub. Präteritum: ich stürbe du stürbst es stürbe wir stürben ihr stürbt sie stürben
+Note:
+Präsens: ich sterbe du stirbst er stirbt wir sterben ihr sterbt Sie sterben
+Ind. Präteritum: ich starb du starbst er starb wir starben ihr starbt Sie starben
+Sub. Präteritum: ich stürbe du stürbst er stürbe wir stürben ihr stürbt Sie stürben
 Imperativs: stirb! sterbt!
 Partizip I: sterbend
 Partizip II: gestorben
 #### zu stinken
-Note: 
-Präsens: ich stinke du stinkst es stinkt wir stinken ihr stinkt sie stinken
-Ind. Präteritum: ich stank du stankst es stank wir stanken ihr stankt sie stanken
-Sub. Präteritum: ich stänke du stänkst sie stänke wir stänken ihr stänkt sie stänken
+Note:
+Präsens: ich stinke du stinkst er stinkt wir stinken ihr stinkt Sie stinken
+Ind. Präteritum: ich stank du stankst er stank wir stanken ihr stankt Sie stanken
+Sub. Präteritum: ich stänke du stänkst er stänke wir stänken ihr stänkt Sie stänken
 Imperativs: stink, stinkt!
 Partizip I: stinkend
 Partizip II: gestunken
 #### zu streichen
 Note: In the sense of “stroking” (without a direct object) the auxiliary verb is “sein”, e.g. “er ist ihr übers Haar gestrichen”. Otherwise, it is usually “haben”.
-Präsens: ich streiche du streichst es streicht wir streichen ihr streicht sie streichen
-Ind. Präteritum: ich strich du strichst sie strich wir strichen ihr stricht sie strichen
-Sub. Präteritum: ich striche du strichest sie striche wir strichen ihr strichet sie strichen
+Präsens: ich streiche du streichst er streicht wir streichen ihr streicht Sie streichen
+Ind. Präteritum: ich strich du strichst er strich wir strichen ihr stricht Sie strichen
+Sub. Präteritum: ich striche du strichest er striche wir strichen ihr strichet Sie strichen
 Imperativs: streich, streicht!
 Partizip I: streichend
 Partizip II: gestrichen
 #### zu streiten
-Note: 
-Präsens: ich streite du streitest es streitet wir streiten ihr streitet sie streiten
-Ind. Präteritum: ich stritt du strittst sie stritt wir stritten ihr strittet sie stritten
-Sub. Präteritum: ich stritte du strittest es stritte wir stritten ihr strittet sie stritten
+Note:
+Präsens: ich streite du streitest er streitet wir streiten ihr streitet Sie streiten
+Ind. Präteritum: ich stritt du strittst er stritt wir stritten ihr strittet Sie stritten
+Sub. Präteritum: ich stritte du strittest er stritte wir stritten ihr strittet Sie stritten
 Imperativs: streit, streitet!
 Partizip I: streitend
 Partizip II: gestritten
 #### zu tragen
-Note: 
-Präsens: ich trage du trägst es trägt wir tragen ihr tragt sie tragen
-Ind. Präteritum: ich trug du trugst er trug wir trugen ihr trugt sie trugen
-Sub. Präteritum: ich trüge du trügest sie trüge wir trügen ihr trüget sie trügen
+Note:
+Präsens: ich trage du trägst er trägt wir tragen ihr tragt Sie tragen
+Ind. Präteritum: ich trug du trugst er trug wir trugen ihr trugt Sie trugen
+Sub. Präteritum: ich trüge du trügest er trüge wir trügen ihr trüget Sie trügen
 Imperativs: trag, tragt!
 Partizip I: tragend
 Partizip II: getragen
 #### zu treffen
-Note: 
-Präsens: ich treffe du triffst es trifft wir treffen ihr trefft sie treffen
-Ind. Präteritum: ich traf du trafst sie traf wir trafen ihr traft sie trafen
-Sub. Präteritum: ich träfe du träfst es träfe wir träfen ihr träft sie träfen
+Note:
+Präsens: ich treffe du triffst er trifft wir treffen ihr trefft Sie treffen
+Ind. Präteritum: ich traf du trafst er traf wir trafen ihr traft Sie trafen
+Sub. Präteritum: ich träfe du träfst er träfe wir träfen ihr träft Sie träfen
 Imperativs: triff! trefft!
 Partizip I: treffend
 Partizip II: getroffen
 #### zu treiben
 Note: The auxiliary verb is “haben” in all meanings apart from “being moved forward”, e.g. “das Eis ist auf dem Spiegel des Flusses getrieben” (the ice moved on the surface of the river).
-Präsens: ich treibe du treibst es treibt wir treiben ihr treibt sie treiben
-Ind. Präteritum: ich trieb du triebst er trieb wir trieben ihr triebt sie trieben
-Sub. Präteritum: ich triebe du triebest er triebe wir trieben ihr triebet sie trieben
+Präsens: ich treibe du treibst er treibt wir treiben ihr treibt Sie treiben
+Ind. Präteritum: ich trieb du triebst er trieb wir trieben ihr triebt Sie trieben
+Sub. Präteritum: ich triebe du triebest er triebe wir trieben ihr triebet Sie trieben
 Imperativs: treib, treibt!
 Partizip I: treibend
 Partizip II: getrieben
 #### zu treten
 Note: In the meaning “to step somewhere”, the auxiliary verb is “haben”, e.g. “beim Tanzen hat er seiner Partnerin auf den Fuß getreten” (he stepped on his partner’s foot while dancing”. In the meaning “to make a few steps”, the auxiliary verb is “sein”, e.g. “er ist zu uns getreten” (he approached us).
-Präsens: ich trete du trittst er tritt wir treten ihr tretet sie treten
-Ind. Präteritum: ich trat du tratst sie trat wir traten ihr tratet sie traten
-Sub. Präteritum: ich träte du trätest es träte wir träten ihr trätet sie träten
+Präsens: ich trete du trittst er tritt wir treten ihr tretet Sie treten
+Ind. Präteritum: ich trat du tratst er trat wir traten ihr tratet Sie traten
+Sub. Präteritum: ich träte du trätest er träte wir träten ihr trätet Sie träten
 Imperativs: tritt! tretet!
 Partizip I: tretend
 Partizip II: getreten
 #### zu trinken
-Note: 
-Präsens: ich trinke du trinkst sie trinkt wir trinken ihr trinkt sie trinken
-Ind. Präteritum: ich trank du trankst sie trank wir tranken ihr trankt sie tranken
-Sub. Präteritum: ich tränke du tränkest sie tränke wir tränken ihr tränket sie tränken
+Note:
+Präsens: ich trinke du trinkst er trinkt wir trinken ihr trinkt Sie trinken
+Ind. Präteritum: ich trank du trankst er trank wir tranken ihr trankt Sie tranken
+Sub. Präteritum: ich tränke du tränkest er tränke wir tränken ihr tränket Sie tränken
 Imperativs: trink, trinkt!
 Partizip I: trinkend
 Partizip II: getrunken
 #### zu trügen
 Note: The subjunctive for “betrügen” (a more usual word for “to deceive”) is “betrüge”.
-Präsens: ich trüge du trügst er trügt wir trügen ihr trügt sie trügen
-Ind. Präteritum: ich trog du trogst er trog wir trogen ihr trogt sie trogen
-Sub. Präteritum: ich tröge du trögst es tröge wir trögen ihr trögt sie trögen
+Präsens: ich trüge du trügst er trügt wir trügen ihr trügt Sie trügen
+Ind. Präteritum: ich trog du trogst er trog wir trogen ihr trogt Sie trogen
+Sub. Präteritum: ich tröge du trögst er tröge wir trögen ihr trögt Sie trögen
 Imperativs: trüg, trügt!
 Partizip I: trügend
 Partizip II: getrogen
 #### zu verbergen
-Note: 
-Präsens: ich verberge du verbirgst sie verbirgt wir verbergen ihr verbergt sie verbergen
-Ind. Präteritum: ich verbarg du verbargst er verbarg wir verbargen ihr verbargt sie verbargen
-Sub. Präteritum: ich verbärge du verbärgst es verbärge wir verbärgen ihr verbärgt sie verbärgen
+Note:
+Präsens: ich verberge du verbirgst er verbirgt wir verbergen ihr verbergt Sie verbergen
+Ind. Präteritum: ich verbarg du verbargst er verbarg wir verbargen ihr verbargt Sie verbargen
+Sub. Präteritum: ich verbärge du verbärgst er verbärge wir verbärgen ihr verbärgt Sie verbärgen
 Imperativs: verbirg! verbergt!
 Partizip I: verbergend
 Partizip II: verborgen
 #### zu verderben
-Note: 
-Präsens: ich verderbe du verdirbst es verdirbt wir verderben ihr verderbt sie verderben
-Ind. Präteritum: ich verdarb du verdarbst sie verdarb wir verdarben ihr verdarbt sie verdarben
-Sub. Präteritum: ich verdürbe du verdürbst es verdürbe wir verdürben ihr verdürbt sie verdürben
+Note:
+Präsens: ich verderbe du verdirbst er verdirbt wir verderben ihr verderbt Sie verderben
+Ind. Präteritum: ich verdarb du verdarbst er verdarb wir verdarben ihr verdarbt Sie verdarben
+Sub. Präteritum: ich verdürbe du verdürbst er verdürbe wir verdürben ihr verdürbt Sie verdürben
 Imperativs: verdirb! verderbt!
 Partizip I: verderbend
 Partizip II: verdorben
 #### zu verlieren
-Note: 
-Präsens: ich verliere du verlierst er verliert wir verlieren ihr verliert sie verlieren
-Ind. Präteritum: ich verlor du verlorst sie verlor wir verloren ihr verlort sie verloren
-Sub. Präteritum: ich verlöre du verlörst es verlöre wir verlören ihr verlört sie verlören
+Note:
+Präsens: ich verliere du verlierst er verliert wir verlieren ihr verliert Sie verlieren
+Ind. Präteritum: ich verlor du verlorst er verlor wir verloren ihr verlort Sie verloren
+Sub. Präteritum: ich verlöre du verlörst er verlöre wir verlören ihr verlört Sie verlören
 Imperativs: verlier, verliert!
 Partizip I: verlierend
 Partizip II: verloren
 #### zu vermeiden
-Note: 
-Präsens: ich vermeide du vermeidest sie vermeidet wir vermeiden ihr vermeidet sie vermeiden
-Ind. Präteritum: ich vermied du vermiedst sie vermied wir vermieden ihr vermiedet sie vermieden
-Sub. Präteritum: ich vermiede du vermiedest sie vermiede wir vermieden ihr vermiedet sie vermieden
+Note:
+Präsens: ich vermeide du vermeidest er vermeidet wir vermeiden ihr vermeidet Sie vermeiden
+Ind. Präteritum: ich vermied du vermiedst er vermied wir vermieden ihr vermiedet Sie vermieden
+Sub. Präteritum: ich vermiede du vermiedest er vermiede wir vermieden ihr vermiedet Sie vermieden
 Imperativs: vermeid, vermeidet!
 Partizip I: vermeidend
 Partizip II: vermieden
 #### zu verschwinden
-Note: 
-Präsens: ich verschwinde du verschwindest sie verschwindet wir verschwinden ihr verschwindet sie verschwinden
-Ind. Präteritum: ich verschwand du verschwandst er verschwand wir verschwanden ihr verschwandet sie verschwanden
-Sub. Präteritum: ich verschwände du verschwändest sie verschwände wir verschwänden ihr verschwändet sie verschwänden
+Note:
+Präsens: ich verschwinde du verschwindest er verschwindet wir verschwinden ihr verschwindet Sie verschwinden
+Ind. Präteritum: ich verschwand du verschwandst er verschwand wir verschwanden ihr verschwandet Sie verschwanden
+Sub. Präteritum: ich verschwände du verschwändest er verschwände wir verschwänden ihr verschwändet Sie verschwänden
 Imperativs: verschwind, verschwindet!
 Partizip I: verschwindend
 Partizip II: verschwunden
 #### zu verzeihen
-Note: 
-Präsens: ich verzeihe du verzeihst er verzeiht wir verzeihen ihr verzeiht sie verzeihen
-Ind. Präteritum: ich verzieh du verziehst er verzieh wir verziehen ihr verzieht sie verziehen
-Sub. Präteritum: ich verziehe du verziehest er verziehe wir verziehen ihr verziehet sie verziehen
+Note:
+Präsens: ich verzeihe du verzeihst er verzeiht wir verzeihen ihr verzeiht Sie verzeihen
+Ind. Präteritum: ich verzieh du verziehst er verzieh wir verziehen ihr verzieht Sie verziehen
+Sub. Präteritum: ich verziehe du verziehest er verziehe wir verziehen ihr verziehet Sie verziehen
 Imperativs: verzeih, verzeiht!
 Partizip I: verzeihend
 Partizip II: verziehen
 #### zu waschen
-Note: 
-Präsens: ich wasche du wäschst er wäscht wir waschen ihr wascht sie waschen
-Ind. Präteritum: ich wusch du wuschst sie wusch wir wuschen ihr wuscht sie wuschen
-Sub. Präteritum: ich wüsche du wüschst sie wüsche wir wüschen ihr wüscht sie wüschen
+Note:
+Präsens: ich wasche du wäschst er wäscht wir waschen ihr wascht Sie waschen
+Ind. Präteritum: ich wusch du wuschst er wusch wir wuschen ihr wuscht Sie wuschen
+Sub. Präteritum: ich wüsche du wüschst er wüsche wir wüschen ihr wüscht Sie wüschen
 Imperativs: wasch, wascht!
 Partizip I: waschend
 Partizip II: gewaschen
 #### zu wenden
-Note: 
-Präsens: ich wende du wendest er wendet wir wenden ihr wendet sie wenden
-Ind. Präteritum: ich wendete du wendetest er wendete wir wendeten ihr wendetet sie wendeten
-Sub. Präteritum: ich wendete du wendetest es wendete wir wendeten ihr wendetet sie wendeten
+Note:
+Präsens: ich wende du wendest er wendet wir wenden ihr wendet Sie wenden
+Ind. Präteritum: ich wendete du wendetest er wendete wir wendeten ihr wendetet Sie wendeten
+Ind. Präteritum: ich wendete du wendetest er wendete wir wendeten ihr wendetet Sie wendeten
 Imperativs: wend, wendet!
 Partizip I: wendend
 Partizip II: gewendet
 #### zu werben
-Note: 
-Präsens: ich werbe du wirbst er wirbt wir werben ihr werbt sie werben
-Ind. Präteritum: ich warb du warbst sie warb wir warben ihr warbt sie warben
-Sub. Präteritum: ich würbe du würbst er würbe wir würben ihr würbt sie würben
+Note:
+Präsens: ich werbe du wirbst er wirbt wir werben ihr werbt Sie werben
+Ind. Präteritum: ich warb du warbst er warb wir warben ihr warbt Sie warben
+Sub. Präteritum: ich würbe du würbst er würbe wir würben ihr würbt Sie würben
 Imperativs: wirb! werbt!
 Partizip I: werbend
 Partizip II: geworben
 #### zu werfen
-Note: 
-Präsens: ich werfe du wirfst er wirft wir werfen ihr werft sie werfen
-Ind. Präteritum: ich warf du warfst es warf wir warfen ihr warft sie warfen
-Sub. Präteritum: ich würfe du würfst es würfe wir würfen ihr würft sie würfen
+Note:
+Präsens: ich werfe du wirfst er wirft wir werfen ihr werft Sie werfen
+Ind. Präteritum: ich warf du warfst er warf wir warfen ihr warft Sie warfen
+Sub. Präteritum: ich würfe du würfst er würfe wir würfen ihr würft Sie würfen
 Imperativs: wirf! werft!
 Partizip I: werfend
 Partizip II: geworfen
 #### zu wissen
 Note: For subjunctive, both “wüsste” and “würde wissen” are common.
-Präsens: ich weiß du weißt er weiß wir wissen ihr wisst sie wissen
-Ind. Präteritum: ich wusste du wusstest er wusste wir wussten ihr wusstet sie wussten
-Sub. Präteritum: ich wüsste du wüsstest es wüsste wir wüssten ihr wüsstet sie wüssten
+Präsens: ich weiß du weißt er weiß wir wissen ihr wisst Sie wissen
+Ind. Präteritum: ich wusste du wusstest er wusste wir wussten ihr wusstet Sie wussten
+Sub. Präteritum: ich wüsste du wüsstest er wüsste wir wüssten ihr wüsstet Sie wüssten
 Imperativs: wisse! wisst!
 Partizip I: wissend
 Partizip II: gewusst
 #### zu ziehen
 Note: The auxiliary verb “sein” is used in the sense “to wander, to move”, e.g. “er ist nach Berlin gezogen” (he moved to Berlin), and similarly for related “umziehen” (to move (the place where you live) completely).
-Präsens: ich ziehe du ziehst er zieht wir ziehen ihr zieht sie ziehen
-Ind. Präteritum: ich zog du zogst er zog wir zogen ihr zogt sie zogen
-Sub. Präteritum: ich zöge du zögst er zöge wir zögen ihr zöget sie zögen
+Präsens: ich ziehe du ziehst er zieht wir ziehen ihr zieht Sie ziehen
+Ind. Präteritum: ich zog du zogst er zog wir zogen ihr zogt Sie zogen
+Sub. Präteritum: ich zöge du zögst er zöge wir zögen ihr zöget Sie zögen
 Imperativs: zieh, zieht!
 Partizip I: ziehend
 Partizip II: gezogen
 #### zu zwingen
-Note: 
-Präsens: ich zwinge du zwingst er zwingt wir zwingen ihr zwingt sie zwingen
-Ind. Präteritum: ich zwang du zwangst es zwang wir zwangen ihr zwangt sie zwangen
-Sub. Präteritum: ich zwänge du zwängest es zwänge wir zwängen ihr zwänget sie zwängen
+Note:
+Präsens: ich zwinge du zwingst er zwingt wir zwingen ihr zwingt Sie zwingen
+Ind. Präteritum: ich zwang du zwangst er zwang wir zwangen ihr zwangt Sie zwangen
+Sub. Präteritum: ich zwänge du zwängest er zwänge wir zwängen ihr zwänget Sie zwängen
 Imperativs: zwing, zwingt!
 Partizip I: zwingend
 Partizip II: gezwungen
