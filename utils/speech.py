@@ -6,18 +6,22 @@ import time
 from .constants import templates
 
 load_dotenv()
-speech_key = os.environ.get('SPEECH_KEY')
-speech_region = os.environ.get('SPEECH_REGION')
+speech_key = os.environ.get("SPEECH_KEY")
+speech_region = os.environ.get("SPEECH_REGION")
 
 
 def synthesize_speech(text, filename):
     speech_config = speechsdk.SpeechConfig(
-        subscription=speech_key, region=speech_region)
-    speech_config.speech_synthesis_voice_name = 'de-DE-KillianNeural'
+        subscription=speech_key, region=speech_region
+    )
+    speech_config.set_speech_synthesis_output_format(
+        speechsdk.SpeechSynthesisOutputFormat.Audio16Khz32KBitRateMonoMp3
+    )
 
     audio_config = speechsdk.audio.AudioOutputConfig(filename=filename)
     synthesizer = speechsdk.SpeechSynthesizer(
-        speech_config=speech_config, audio_config=audio_config)
+        speech_config=speech_config, audio_config=audio_config
+    )
 
     ssml_string = f"""
     <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
@@ -28,10 +32,11 @@ def synthesize_speech(text, filename):
     """
 
     result = synthesizer.speak_ssml_async(ssml_string).get()
+    print(result)
 
     if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
         print(f"Audio synthesized successfully: {filename}")
-        time.sleep(1)
+        time.sleep(3)
         return True
     else:
         print(f"Error synthesizing SSML: {ssml_string}")
@@ -40,17 +45,18 @@ def synthesize_speech(text, filename):
 
 def remove_html_and_special_symbols(text):
     # Remove HTML tags
-    text = re.sub(r'<.*?>', '', text)
+    text = re.sub(r"<.*?>", "", text)
     # Remove special symbols, but preserve German alphabets (ä, ö, ü, ß)
-    text = re.sub(r'[^\w\säöüß]', '', text, flags=re.UNICODE)
+    text = re.sub(r"[^\w\säöüß]", "", text, flags=re.UNICODE)
     # Remove numbers
-    text = re.sub(r'\d+', '', text)
+    text = re.sub(r"\d+", "", text)
     # Remove instances of 'c' followed by numbers
-    text = re.sub(r'c\d+', '', text)
+    text = re.sub(r"c\d+", "", text)
     # BLANKS for fill in?
-    text = re.sub(r'\b[cC]\b', 'BLANK', text)
+    text = re.sub(r"\b[cC]\b", "BLANK", text)
 
     return text
+
 
 def conjugated_audio(verb, form):
     folder_path = f"audio_files/{verb}"
@@ -70,7 +76,9 @@ def conjugated_audio(verb, form):
 def synthesize_template_speech():
     audio_files = []
     folder_path = "audio_files/templates"
-    cleaned_templates = {key: remove_html_and_special_symbols(value) for key, value in templates.items()}
+    cleaned_templates = {
+        key: remove_html_and_special_symbols(value) for key, value in templates.items()
+    }
     for tense, text in cleaned_templates.items():
         if tense == "Ind. Präteritum":
             tense = "Indikativ Präteritum"
